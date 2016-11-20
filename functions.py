@@ -3,6 +3,19 @@ import sys
 import json
 import csv
 import pandas as pd
+import glob
+import path
+import errno
+import signal
+from functools import wraps
+
+
+#must install pdfminer separately (pip install is recommended)
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+from cStringIO import StringIO
 
 try:
     import urllib2 as urllib
@@ -92,3 +105,49 @@ def getMetadata(itemId):
     #'species':findSpecieInPDF(file.pdf)    
       
     return dic
+
+def convert_pdf_to_txt(path):
+    '''This function takes a single pdf file,
+    and converts it to a .txt file
+    '''
+    rsrcmgr = PDFResourceManager()
+    retstr = StringIO()
+    codec = 'utf-8'
+    laparams = LAParams()
+    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
+    fp = file(path, 'rb')
+    interpreter = PDFPageInterpreter(rsrcmgr, device)
+    password = ""
+    maxpages = 0
+    caching = True
+    pagenos = set()
+
+    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
+        interpreter.process_page(page)
+
+    text = retstr.getvalue()
+
+    fp.close()
+    device.close()
+    retstr.close()
+    return text
+
+def findSpecieInPDF(itemId):
+    '''Extract pdf given an ID, convert it to text,
+    and remove the local pdf.
+    '''
+
+    #download PDF
+    os.system('wget --no-check-certificate https://digitallibrary.amnh.org/rest/bitstreams/'+str(itemId)+'/retrieve -O ' + itemId + '.pdf')
+    
+    #extract text
+    #convert_pdf_to_txt(itemId+'.pdf')
+    
+    #remove pdf
+    #os.system('rm '+ itemId + '.pdf')
+    
+    #apply Bens function
+    listOfSpecies = []
+    
+    return listOfSpecies
+
