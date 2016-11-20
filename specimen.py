@@ -2,27 +2,27 @@ import re
 import json
 import csv
 
-SPECIMAN_REGEX='AMNH [A-Z]-[0-9]+|AMNH[ |-][0-9]+'
+SPECIMEN_REGEX='AMNH [A-Z]-[0-9]+|AMNH[ |-][0-9]+'
 
-def find_specimans(article):
-    """Returns a sorted, distinct list of AMNH specimans (as defined by 
-    SPECIMAN_REGEX) contained in the file."""
-    p = re.compile(SPECIMAN_REGEX)
+def find_specimens(article):
+    """Returns a sorted, distinct list of AMNH specimens (as defined by 
+    specimen_REGEX) contained in the file."""
+    p = re.compile(SPECIMEN_REGEX)
     sp_list = list(set(p.findall(article)))
     sp_list.sort()
     return sp_list
 
-def find_specimans_file(file_name):
+def find_specimens_file(file_name):
     """Takes as input a text file with name file_name and returns a sorted, 
-    distinct list of AMNH specimans (as defined by SPECIMAN_REGEX) contained
+    distinct list of AMNH specimens (as defined by specimen_REGEX) contained
     in the file."""
     text = open(file_name)
     article = text.read()
-    return find_specimans(article)
+    return find_specimens(article)
     
-def lookup_speciman_names(sp_list):
-    """Tales a list of AMNH specimans as input and produces a list of 
-    speciman number and name pairs as output"""
+def lookup_specimen_names(sp_list):
+    """Tales a list of AMNH specimens as input and produces a list of 
+    specimen number and name pairs as output"""
     sp_numbers_names = []
     for s in sp_list:
         psn = re.split(' |-', s[5:])
@@ -33,16 +33,16 @@ def lookup_speciman_names(sp_list):
         sp_numbers_names.append((s, sp_name))
     return sp_numbers_names
 
-def json_specimans(file_name):
-    """Calls find_specimans() with the file_name, jsonify and pretty prints 
+def json_specimens(file_name):
+    """Calls find_specimens() with the file_name, jsonify and pretty prints 
     the results"""
-    sp_list = find_specimans_file(file_name)
-    specimans = {}
-    specimans["file"] = file_name
-    specimans["speciman_count"] = len(sp_list)
-    specimans["speciman_list"] = sp_list
-    specimans["speciman_list_with_names"] = lookup_speciman_names(sp_list)
-    return json.dumps(specimans, indent=4, sort_keys=True)
+    sp_list = find_specimens_file(file_name)
+    specimens = {}
+    specimens["file"] = file_name
+    specimens["specimen_count"] = len(sp_list)
+    specimens["specimen_list"] = sp_list
+    specimens["specimen_list_with_names"] = lookup_specimen_names(sp_list)
+    return json.dumps(specimens, indent=4, sort_keys=True)
     
 collection = {}    
 def load_collections():
@@ -63,6 +63,8 @@ def load_collections():
             else:    
                 collection[('',row[1])] = [row[3:]]
     
-load_collections() 
-print json_specimans('N3849.txt')
-print find_specimans('AMNH Collection AMNH 113352')
+load_collections()
+
+if __name__ == "__main__":
+    print json_specimens('N3849.txt')
+    print find_specimens('AMNH Collection AMNH 113352')
