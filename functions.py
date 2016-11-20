@@ -69,23 +69,6 @@ def getYear(x):
     returns the year'''
     return x.year
 
-'''
-Keeping this in here for now in case we need to change the new function
-
-def createListOfIds():
-    
-#    This function creates a Pandas Series of ALL the ids from 
-#    ALL the collections and saves it in a csv
-    
-    years =[]
-    #6768 is the current number, we should come up with a way to
-    #get it from the full item list
-    [getItemYear(id = i,yearList=years) for i in reversed(range(6768))]
-    datesOfItems = pd.Series(years)
-    #change the index so they reflect the id of the item
-    datesOfItems.index = reversed(range(6768))
-    datesOfItems.to_csv('datesOfItems.csv')
-'''
 
 def getIdsFromPeriod(year):
     '''This function takes a year, 
@@ -207,3 +190,19 @@ def convert_pdf_to_txt(itemId):
     os.system('rm '+ str(itemId) + '.pdf')
 
     return text
+
+
+def createCSVfile():
+    #create a list of id for ALL the items in collection 4 Novitates
+    listOfIds = createListOfIds()
+    
+    #create and empty list
+    listOfYears = []
+    
+    #loop trhough the ids of collection 4 and retrieve the published dates
+    [getItemYear(i,listOfYears) for i in listOfIds]
+    
+    #convert the dates into a series with the item id as index and save it
+    serie = pd.Series(listOfYears)
+    serie.index = listOfIds
+    serie.to_csv('datesOfItems.csv')
