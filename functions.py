@@ -7,6 +7,7 @@ import requests
 import path
 import signal
 from cStringIO import StringIO
+import specimen
 
 #must install pdfminer separately (pip install is recommended)
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -148,13 +149,17 @@ def getMetadata(itemId):
         else:
             parsedURL = "https://digitallibrary.amnh.org/rest/bitstreams/" + str(itemId) + "/retrieve"
 
-        
+        #read pdf
+        print parsedURL
+        text = convert_pdf_to_txt(parsedURL)
+              
         dic = {'authors':itemAuthors,
            'subjects':itemSubjects,
            'title.alternatives':itemTitleAlternatives,
            'title':parsedTitle,
            'Num':parsedNum,
-           'pdfURL':parsedURL}
+           'pdfURL':parsedURL,
+              'specimen':find_specimens(text)}
 
     if bool(uniqueDict):
         dic.update(uniqueDict)
@@ -168,18 +173,18 @@ def getMetadata(itemId):
 def signal_handler(signum, frame):
     raise Exception("Timed Out")
 
-def convert_pdf_to_txt(itemId):
+def convert_pdf_to_txt(PDFurl):
     '''This function takes a handle id for a single pdf file, 
     extracts the pdf, and converts it to text in memory
     '''
-    os.system('wget --no-check-certificate https://digitallibrary.amnh.org/rest/bitstreams/'+str(itemId)+'/retrieve -O ' + str(itemId) + '.pdf')
+    os.system('wget --no-check-certificate ' + PDFurl + ' -O input.pdf')
 
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
     laparams = LAParams()
     device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
-    fp = file(str(itemId) + '.pdf', 'rb')
+    fp = file('input.pdf', 'rb')
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     password = ""
     maxpages = 0
@@ -202,7 +207,7 @@ def convert_pdf_to_txt(itemId):
     fp.close()
     device.close()
     retstr.close()
-    os.system('rm '+ str(itemId) + '.pdf')
+    os.system('rm input.pdf')
 
     return text
 
