@@ -95,18 +95,66 @@ def getMetadata(itemId):
     '''This function takes an items's id
     and returns the metadata in a python dic
     '''
-    url = 'https://digitallibrary.amnh.org/rest/items/'+str(itemId)+'/metadata'
-    result = os.popen('curl -ki -H "Accept: application/json" -H "Content-Type: application/json" \-X GET ' + url).read()
-    parseData = json.loads(result[199:])
-    dic = {'authors':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.contributor.author']],
-        'subjects':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.subject']],
-        'title.alternatives':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.title.alternative']]
-           }
+    url = 'https://digitallibrary.amnh.org/rest/items/'+str(itemId)+'?expand=metadata'
+    response = requests.get(url,verify=False)
+
+    parseData = json.loads(response.text)
+
     listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued','dc.identifier.uri','dc.description','dc.description.abstract',
- 'dc.language.iso','dc.publisher','dc.relation.ispartofseries','dc.title']
-    dic2 = dict([(parseData[i]['key'],parseData[i]['value']) for i in range(len(parseData)) if parseData[i]['key'] in listOfUniqueKeys])
-    dic.update(dic2)
+ 'dc.language.iso','dc.publisher','dc.relation.ispartofseries']
+
+    itemAuthors           = ""
+    itemSubjects          = ""
+    itemTitle             = ""
+    itemTitleAlternatives = ""
     
+    parsedTitle = ""
+    parsedNum   = ""
+
+    uniqueDict = {}
+
+    regex=r"(.+\.?).+\(?[A|a]merican [M|m]useum [N|n]ov.+no\. ?(\d+)"
+
+    for item in parseData['metadata']:
+        print(item)
+
+        if item['key'] in ['dc.contributor.author']:
+            if itemAuthors == "":
+                itemAuthors = item['value']
+            else:
+                itemAuthors = itemAuthors + "|" + item['value']
+        elif item['key'] in ['dc.subject']:
+            if itemSubjects == "":
+                itemSubjects = item['value']
+            else:
+                itemSubjects = itemSubjects + "|" + item['value']
+        elif item['key'] in ['dc.title.alternative']:
+            if itemTitleAlternatives == "":
+                itemTitleAlternatives = item['value']
+            else:
+                itemTitleAlternatives = itemTitleAlternatives + "|" + item['value']
+        elif item['key'] in ['dc.title']:
+            fullName = item['value']
+            parsed = re.search(regex, fullName)
+            if parsed:
+                parsedTitle = parsed.group(1)
+                parsedNum   = parsed.group(2)
+            else:
+                parsedTitle = fullName
+                parsedNum   = ""
+
+        elif item['key'] in listOfUniqueKeys:
+            uniqueDict = {item['key']:item['value']}
+
+        dic = {'authors':itemAuthors,
+           'subjects':itemSubjects,
+           'title.alternatives':itemTitleAlternatives,
+           'title':parsedTitle,
+           'Num':parsedNum}
+    
+    if bool(uniqueDict):
+        dic.update(uniqueDict)
+   
     #We have yet to implement this function
     #'species':findSpecieInPDF(file.pdf)    
       
