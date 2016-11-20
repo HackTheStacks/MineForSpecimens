@@ -116,8 +116,6 @@ def getMetadata(itemId):
     regex=r"(.+\.?).+\(?[A|a]merican [M|m]useum [N|n]ov.+no\. ?(\d+)"
 
     for item in parseData['metadata']:
-        print(item)
-
         if item['key'] in ['dc.contributor.author']:
             if itemAuthors == "":
                 itemAuthors = item['value']
