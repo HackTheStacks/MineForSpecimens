@@ -11,7 +11,7 @@ import signal
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPa
+from pdfminer.pdfpage import PDFPage
 
 try:
     import urllib2 as urllib
