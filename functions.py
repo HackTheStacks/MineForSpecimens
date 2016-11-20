@@ -92,20 +92,24 @@ def getMetadata(itemId):
 
     parseData = json.loads(response.text)
 
-    listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued','dc.identifier.uri','dc.description','dc.description.abstract',
- 'dc.language.iso','dc.publisher','dc.relation.ispartofseries']
+    listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued',
+                        'dc.identifier.uri','dc.description','dc.description.abstract',
+                        'dc.language.iso','dc.publisher','dc.relation.ispartofseries']
 
     itemAuthors           = ""
     itemSubjects          = ""
     itemTitle             = ""
     itemTitleAlternatives = ""
-    
+    itemURL               = ""
+    parsedHandleResult    = ""
     parsedTitle = ""
     parsedNum   = ""
+    parsedURL   = ""
 
     uniqueDict = {}
 
-    regex=r"(.+\.?).+\(?[A|a]merican [M|m]useum [N|n]ov.+no\. ?(\d+)"
+    numRegex=r"(.+\.?).+\(?[A|a]merican [M|m]useum [N|n]ov.+no\. ?(\d+)"
+    uriRegex=r".+/(\d+/\d+)"
 
     for item in parseData['metadata']:
         if item['key'] in ['dc.contributor.author']:
@@ -125,25 +129,36 @@ def getMetadata(itemId):
                 itemTitleAlternatives = itemTitleAlternatives + "|" + item['value']
         elif item['key'] in ['dc.title']:
             fullName = item['value']
-            parsed = re.search(regex, fullName)
-            if parsed:
-                parsedTitle = parsed.group(1)
-                parsedNum   = parsed.group(2)
+            parsedNumResult = re.search(numRegex, fullName)
+            if parsedNumResult:
+                parsedTitle = parsedNumResult.group(1)
+                parsedNum   = parsedNumResult.group(2)
             else:
                 parsedTitle = fullName
                 parsedNum   = ""
+        elif item['key'] in ['dc.identifier.uri']:
+            fullName = item['value']
+            parsedHandleResult = re.search(uriRegex, fullName)
 
         elif item['key'] in listOfUniqueKeys:
             uniqueDict = {item['key']:item['value']}
 
+        if parsedHandleResult and parsedNum:
+            parsedURL = "https://digitallibrary.amnh.org/bitstream/handle/" + parsedHandleResult.group(1) + "/N" + parsedNum + ".pdf"
+        else:
+            parsedURL = "https://digitallibrary.amnh.org/rest/bitstreams/" + str(itemId) + "/retrieve"
+
+        
         dic = {'authors':itemAuthors,
            'subjects':itemSubjects,
            'title.alternatives':itemTitleAlternatives,
            'title':parsedTitle,
-           'Num':parsedNum}
-    
+           'Num':parsedNum,
+           'pdfURL':parsedURL}
+
     if bool(uniqueDict):
         dic.update(uniqueDict)
+
    
     #We have yet to implement this function
     #'species':findSpecieInPDF(file.pdf)    
