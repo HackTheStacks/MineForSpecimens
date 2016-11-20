@@ -4,11 +4,24 @@ import json
 import csv
 import pandas as pd
 import requests
+import path
+import signal
+from cStringIO import StringIO
+import specimen
+import re
+
+#must install pdfminer separately (pip install is recommended)
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
 
 try:
     import urllib2 as urllib
 except ImportError:
     import urllib.request as urllib
+
+requests.packages.urllib3.disable_warnings()
 
 # Return array of all valid item IDs
 
@@ -60,23 +73,6 @@ def getYear(x):
     returns the year'''
     return x.year
 
-'''
-Keeping this in here for now in case we need to change the new function
-
-def createListOfIds():
-    
-#    This function creates a Pandas Series of ALL the ids from 
-#    ALL the collections and saves it in a csv
-    
-    years =[]
-    #6768 is the current number, we should come up with a way to
-    #get it from the full item list
-    [getItemYear(id = i,yearList=years) for i in reversed(range(6768))]
-    datesOfItems = pd.Series(years)
-    #change the index so they reflect the id of the item
-    datesOfItems.index = reversed(range(6768))
-    datesOfItems.to_csv('datesOfItems.csv')
-'''
 
 def getIdsFromPeriod(year):
     '''This function takes a year, 
@@ -95,19 +91,145 @@ def getMetadata(itemId):
     '''This function takes an items's id
     and returns the metadata in a python dic
     '''
-    url = 'https://digitallibrary.amnh.org/rest/items/'+str(itemId)+'/metadata'
-    result = os.popen('curl -ki -H "Accept: application/json" -H "Content-Type: application/json" \-X GET ' + url).read()
-    parseData = json.loads(result[199:])
-    dic = {'authors':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.contributor.author']],
-        'subjects':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.subject']],
-        'title.alternatives':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.title.alternative']]
-           }
-    listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued','dc.identifier.uri','dc.description','dc.description.abstract',
- 'dc.language.iso','dc.publisher','dc.relation.ispartofseries','dc.title']
-    dic2 = dict([(parseData[i]['key'],parseData[i]['value']) for i in range(len(parseData)) if parseData[i]['key'] in listOfUniqueKeys])
-    dic.update(dic2)
-    
+    url = 'https://digitallibrary.amnh.org/rest/items/'+str(itemId)+'?expand=metadata'
+    response = requests.get(url,verify=False)
+
+    parseData = json.loads(response.text)
+
+    listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued',
+                        'dc.identifier.uri','dc.description','dc.description.abstract',
+                        'dc.language.iso','dc.publisher','dc.relation.ispartofseries']
+
+    itemAuthors           = ""
+    itemSubjects          = ""
+    itemTitle             = ""
+    itemTitleAlternatives = ""
+    itemURL               = ""
+    parsedHandleResult    = ""
+    parsedTitle = ""
+    parsedNum   = ""
+    parsedURL   = ""
+
+    uniqueDict = {}
+
+    numRegex=r"(.+\.?).+\(?[A|a]merican [M|m]useum [N|n]ov.+no\. ?(\d+)"
+    uriRegex=r".+/(\d+/\d+)"
+
+    for item in parseData['metadata']:
+        if item['key'] in ['dc.contributor.author']:
+            if itemAuthors == "":
+                itemAuthors = item['value']
+            else:
+                itemAuthors = itemAuthors + "|" + item['value']
+        elif item['key'] in ['dc.subject']:
+            if itemSubjects == "":
+                itemSubjects = item['value']
+            else:
+                itemSubjects = itemSubjects + "|" + item['value']
+        elif item['key'] in ['dc.title.alternative']:
+            if itemTitleAlternatives == "":
+                itemTitleAlternatives = item['value']
+            else:
+                itemTitleAlternatives = itemTitleAlternatives + "|" + item['value']
+        elif item['key'] in ['dc.title']:
+            fullName = item['value']
+            parsedNumResult = re.search(numRegex, fullName)
+            if parsedNumResult:
+                parsedTitle = parsedNumResult.group(1)
+                parsedNum   = parsedNumResult.group(2)
+            else:
+                parsedTitle = fullName
+                parsedNum   = ""
+        elif item['key'] in ['dc.identifier.uri']:
+            fullName = item['value']
+            parsedHandleResult = re.search(uriRegex, fullName)
+
+        elif item['key'] in listOfUniqueKeys:
+            uniqueDict = {item['key']:item['value']}
+
+        if parsedHandleResult and parsedNum:
+            parsedURL = "https://digitallibrary.amnh.org/bitstream/handle/" + parsedHandleResult.group(1) + "/N" + parsedNum + ".pdf"
+        else:
+            parsedURL = "https://digitallibrary.amnh.org/rest/bitstreams/" + str(itemId) + "/retrieve"
+
+        #read pdf
+       
+    text = convert_pdf_to_txt(parsedURL)
+              
+    dic = {'authors':itemAuthors,
+           'subjects':itemSubjects,
+           'title.alternatives':itemTitleAlternatives,
+           'title':parsedTitle,
+           'Num':parsedNum,
+           'pdfURL':parsedURL,
+            #'specimen':specimen.find_specimens(text) #first working version
+           'specimen':specimen.lookup_specimen_names(specimen.find_specimens(text))
+          }
+
+    if bool(uniqueDict):
+        dic.update(uniqueDict)
+
+   
     #We have yet to implement this function
-    #'species':findSpecieInPDF(file.pdf)    
-      
+    #'species':findSpecieInPDF(file.pdf) 
+    print 'Item id:', itemId
+    print 'Loading article Number:',dic['Num']
     return dic
+
+def signal_handler(signum, frame):
+    raise Exception("Timed Out")
+
+def convert_pdf_to_txt(PDFurl):
+    '''This function takes a handle id for a single pdf file, 
+    extracts the pdf, and converts it to text in memory
+    '''
+    os.system('wget --no-check-certificate ' + PDFurl + ' -O input.pdf')
+
+    rsrcmgr = PDFResourceManager()
+    retstr = StringIO()
+    codec = 'utf-8'
+    laparams = LAParams()
+    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
+    fp = file('input.pdf', 'rb')
+    interpreter = PDFPageInterpreter(rsrcmgr, device)
+    password = ""
+    maxpages = 0
+    caching = True
+    pagenos = set()
+
+    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
+        
+        signal.signal(signal.SIGALRM,signal_handler)
+        signal.alarm(20)
+        try:
+            interpreter.process_page(page)
+        except Exception,msg:
+            pass
+        signal.alarm(0)
+
+
+    text = retstr.getvalue()
+
+    #Cleaning
+    fp.close()
+    device.close()
+    retstr.close()
+    os.system('rm input.pdf')
+
+    return text
+
+
+def createCSVfile():
+    #create a list of id for ALL the items in collection 4 Novitates
+    listOfIds = createListOfIds()
+    
+    #create and empty list
+    listOfYears = []
+    
+    #loop trhough the ids of collection 4 and retrieve the published dates
+    [getItemYear(i,listOfYears) for i in listOfIds]
+    
+    #convert the dates into a series with the item id as index and save it
+    serie = pd.Series(listOfYears)
+    serie.index = listOfIds
+    serie.to_csv('datesOfItems.csv')
