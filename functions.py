@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 import path
 import signal
+from cStringIO import StringIO
 
 #must install pdfminer separately (pip install is recommended)
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
