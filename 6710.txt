@@ -1,0 +1,1166 @@
+A M ERIC AN  MUSEUM  NOVITATES
+
+Number 3714, 21 pp. 
+
+May 11, 2011
+
+Status of Early 19th-Century Names  
+
+Authored in Parallel by Wied and Schinz  
+
+for South American Reptiles and Amphibians,  
+with Designations of Three Nomina Protecta
+
+ChARlES W. MyERS,1 MiguEl TREfAuT RoDRiguES,2  
+
+AND PAulo E. VANzoliNi3
+
+ABSTRACT
+
+Prince Maximilian zu Wied’s great exploration of coastal Brazil in 1815–1817 resulted in 
+important collections of reptiles, amphibians, birds, and mammals, many of which were new 
+species later described by Wied himself. The bulk of his collection was purchased for the Amer-
+ican Museum of Natural history in 1869, although many “type specimens” had disappeared 
+earlier. Wied carefully identified his localities but did not designate type specimens or type 
+localities, which are taxonomic concepts that were not yet established.
+
+information and manuscript names on a fraction (17 species) of his Brazilian reptiles and 
+amphibians were transmitted by Wied to Prof. heinrich Rudolf Schinz at the university of 
+zurich. Schinz included these species (credited to their discoverer “Princ. Max.”) in the second 
+volume of Das Thierreich . . . (1822). Most are junior objective synonyms of names published 
+by Wied.
+
+1 Division of Vertebrate zoology (herpetology), American Museum of Natural history.
+2 Division of Vertebrate zoology (herpetology), American Museum of Natural history; universidade de São 
+Paulo, instituto de Biociências, Departamento de zoologia.
+3 Division of Vertebrate zoology (herpetology), American Museum of Natural history. Museu de zoologia 
+da universidade de São Paulo; instituto de Biociências, universidade de São Paulo.
+
+Copyright © American Museum of Natural History 2011 
+
+ISSN 0003-0082
+
+2 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+however, six of the 17 names used by Schinz predate Wied’s own publications. Three were 
+manuscript names never published by Wied because he determined the species to be previously 
+known. (1) Lacerta vittata Schinz, 1822 (a nomen oblitum) = Lacerta striata sensu Wied (a 
+misidentification, non linnaeus nec sensu Merrem) = Kentropyx calcarata Spix, 1825, herein 
+qualified as a nomen protectum. (2) Polychrus virescens Schinz, 1822 = Lacerta marmorata 
+linnaeus, 1758 (now Polychrus marmoratus). (3) Scincus cyanurus Schinz, 1822 (a nomen obli-
+tum) = Gymnophthalmus quadrilineatus sensu Wied (a misidentification, non linnaeus nec 
+sensu Merrem) = Micrablepharus maximiliani (Reinhardt and lütken, “1861” [1862]), herein 
+qualified as a nomen protectum. Qualifying Scincus cyanurus Schinz, 1822, as a nomen oblitum 
+also removes the problem of homonymy with the later-named Pacific skink Scincus cyanurus 
+lesson (= Emoia cyanura).
+
+The remaining three names used by Schinz are senior objective synonyms that take priority 
+over Wied’s names. (4) Bufo cinctus Schinz, 1822, is senior to Bufo cinctus Wied, 1823; both, 
+however,  are  junior  synonyms  of  Bufo  crucifer  Wied,  1821  =  Chaunus  crucifer  (Wied).  (5) 
+Agama picta Schinz, 1822, is senior to Agama picta Wied, 1823, requiring a change of author-
+ship for this poorly known species, to be known as Enyalius pictus (Schinz). (6) Lacerta cya-
+nomelas Schinz, 1822, predates Teius cyanomelas Wied, 1824 (1822–1831)—both nomina oblita. 
+Wied’s illustration and description shows cyanomelas as apparently conspecific with the recently 
+described but already well-known Cnemidophorus nativo Rocha et al., 1997, which is the valid 
+name because of its qualification herein as a nomen protectum.
+
+The preceding specific name cyanomelas (as corrected in an errata section) is misspelled 
+several ways in different copies of Schinz’s original description (“cyanomlas,” “cyanom  las,” and 
+“cyanom”). loosening, separation, and final loss of the last three letters of movable type in the 
+printing chase probably accounts for the variant misspellings.
+
+iNTRoDuCTioN
+
+in the years 1815–1817, Maximilian Alexander Philipp, Prinz zu Wied-Neuwied,4 traveled 
+extensively along the Atlantic coast of eastern Brazil and assembled important zoological col-
+lections. The principal scientific results of his great Brazilian expedition were described in three 
+classic works. The two-volume Reise (Wied, 1820–1821) is a report of his travel and includes 
+some footnote descriptions of new species, but most new taxa date from the following two 
+
+4 Prince Maximilian’s given names sometimes are arranged incorrectly as “Alexander Philipp Maximilian.” More 
+importantly, there are permutations of his family name and much confusion as to how it should be cited. 
+Briefly, the family Wied-Neuwied inherited the estate of Wied-Runkel in 1824 and geographic modifiers of 
+the Wied name were officially dropped that year. long before that, the prince’s normal signature in corre-
+spondence was “Max P z Wied.” he did not publish under the compound name Wied-Neuwied after 1824 
+except (for editorial continuity) on the title pages of the Abbildungen, which had begun publication in 1822. 
+All his species names can properly be referenced simply as “Wied,” following the prince’s own preference 
+and the Anglo-American Cataloging Rules (1998, rule 22.2C1) that mandate use of the latest form of a changed 
+name. (NB: in the notable case of linnaeus vs. the late-in-life ennobled “von linné,” this rule is followed in 
+modern library catalogs but long ignored in most taxonomic literature.) The noble preposition von some-
+times replaces the zu in Wied’s name in library catalogs, rarely on the printed page (see footnote 12).
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+3
+
+works. The Abbildungen (Wied, 1822–1831) comprise 90 folio plates of Brazilian animals; these 
+were published in 15 issues (lieferungen/livraisons), each with six unnumbered plates accom-
+panied by short texts in german and french. All the species, illustrated or not, were extensively 
+described in the four-volume Beiträge, of which the first volume is devoted to herpetology 
+(Wied, 1825). After finishing his studies of the Brazilian material, Prince Maximilian under-
+took his famous North American expedition, sailing to Boston in 1832 and exploring along the 
+Missouri River in 1833–1834; another comprehensive set of publications followed (see espe-
+cially Wied, 1839–1841).
+
+After the prince’s death, the bulk of his collection was purchased in 1869 for the American 
+Museum of Natural history (Myers, 2000: 7). Some, albeit not all, his “type specimens” were 
+in the material sent to the American Museum. Prince Maximilian carefully associated localities 
+with his specimens, but he did not designate type specimens or type localities—taxonomic 
+concepts not yet established in his day. Vanzolini and Myers (unpublished) collaborated in a 
+survey especially of the Brazilian materials, in an effort to determine retrospective type status 
+of specimens illustrated and described by Prince Maximilian zu Wied, whom we hereafter refer 
+to simply as Wied.
+
+Wied carried on extensive correspondence during his career and kept colleagues informed 
+of his work. he not only sent complimentary copies of the Beiträge volumes and issues of the 
+Abbildungen, but also transmitted not yet published descriptions of new species; he even gave 
+specimens to Blasius Merrem. This procedure and generosity led to the preemption of some of 
+Wied’s specific names by colleagues (Vanzolini, 1996: 211). Although the rule of strict nomen-
+clatural priority had yet to be established, Wied’s new species seem usually to have been cred-
+ited to him, but not, unfortunately, in ways that would establish his first authorship of names 
+under modern rules of zoological nomenclature.
+
+Schinz’s Thierreich
+
+We are here concerned with heinrich Rudolf Schinz (1777–1861 or 1862), with whom 
+Wied conducted a long friendly correspondence from 1806 until 1860 (Bosch, 1991: 39). 
+Schinz, a Swiss naturalist, was one of the first professors in the university of zurich (Adler, 
+2007: 51), where his students included louis Agassiz and J.J. von Tschudi. Among his publica-
+tions was the four-volume Das Thierreich eingetheilt nach dem Bau der Thiere als Grundlage 
+ihrer Naturgeschichte und der vergleichenden Anatomie von dem Herrn Ritter von Cuvier . . . aus 
+dem Französischen frey [frei] übersetzt und mit vielen Zusätzen versehen von H.R. Schinz. Vol-
+ume 2 is the one most important to herpetology (Schinz, 1822) and was cited in various places 
+by Wied.
+
+Schinz’s Thierreich is rare and seldom mentioned nowadays, in part because few libraries 
+own it. Authorship usually is attributed to georges Cuvier; Wood (1931: 307), for example, 
+does not list it with Schinz’s works in the Literature of Vertebrate Zoology, but under Cuvier he 
+notes that it is “A faithful german translation, with additions, of Baron Cuvier’s Règne animal.” 
+
+4 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+it contains too many novelties and other additions to be called a simple translation, and author-
+ship is usually credited to Schinz for taxonomic purposes. Wied referred to the work as “Schinz, 
+das Thierreich” and “Schinz, Règne Animal” on same-page german and french letterpress texts 
+in the Abbildungen. Vanzolini (1977a: 29) pointed out that “Although this is one of the most 
+frequently cited suites to Cuvier, its importance to Brasilian herpetology seems to have escaped 
+general notice.”
+
+Another german “translation” of Cuvier was published in 1832, by friedrich Siegmund 
+Voigt. By this time, most of Wied’s Brazilian publications had become available, but neither 
+Schinz’s Thierreich nor Voigt’s Thierreich attempted to discuss all the species treated by Wied. 
+Voigt (1832) referenced the prince some 40 times, although Wied’s 1825  Beiträge contained 
+accounts for nearly 90 species, including 60 named by himself. Voigt apparently was following 
+after Cuvier, who “was not much concerned with completeness [and] only included well known 
+species, capable of documenting his generic concepts” (Vanzolini, 1977: 22). So far as we can 
+see, no reference is made to Schinz’s (1822) Thierreich in Voigt’s (1832) volume 2; Voigt’s source 
+for Wied’s unpublished Polychrus virescens appears to have been Wagler (1828), not Schinz 
+(1822) as might be expected (discussion below).
+
+Schinz (1822) credited 17 species listed below to his friend “Princ. Max,” who discovered 
+
+them in Brazil (“in Brasilien, neu von Neuwied entdeckt”).
+
+Names credited to Wied  
+by Schinz (1822: 12–177)
+p.   12
+p.   45
+p.   46
+p.   53
+p.   54
+p.   65
+p.   69
+p.   69
+p.   87
+
+Test[udo] depressa
+Lacerta vittata
+Lac[erta] cyanomelas
+Agam[a] catenata
+Agama picta
+Polyc[hrus] virescens
+Anol[is] gracilis
+Anolis viridis
+Scincus cyanurus
+
+Col[uber] venustissimus
+Coluber Merremii
+Trigonoc[ephalus] holosericeus
+Trigonoceph[alus] bilineatus
+Elaps corallinus
+
+p. 125
+p. 126
+p. 143
+p. 143
+p. 149
+p. 168 Hyla Faber
+p. 168 Hyla aurata
+p. 177
+
+Buf[o] cinctus
+
+Names used by Wied  
+for the same species
+Emys depressa Wied, 1821
+Lacerta striata, after Merrem, 1820
+Teius cyanomelas Wied, 1824
+Agama catenata Wied, 1821
+Agama picta Wied, 1823
+Polychrus marmoratus, after Merrem, 1820
+Anolis gracilis Wied, 1821
+Anolis viridis Wied, 1821
+Gymnophthalmus quadrilineatus, 
+
+after Merrem, 1820
+
+Coluber venustissimus Wied, 1820
+Coluber Merremii Wied, 1821
+Cophias holosericeus Wied, 1821
+Cophias bilineatus Wied, 1821
+Elaps corallinus Wied, 1820
+Hyla Faber Wied, 1821
+Hyla aurata Wied, 1821
+Bufo cinctus Wied, 1823
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+5
+
+We interpret most of Schinz’s names as objective junior synonyms (rather than simple subse-
+quent usages) of names first published by Wied; they are objective synonyms because they were 
+based on information provided by Wied and therefore were based on the same specimens.5
+
+however, the six names in boldface (above and below) predate names used by Wied for 
+the same species.6 Wied supplied all 17 names to Schinz and considered them as his own. in 
+the Abbildungen and Beiträge, for example, he referenced Schinz by page number but omitted 
+his names first published by Schinz. Wied did, however, explain his abandoned manuscript 
+names used by Schinz (Lacerta vittata, Polychrus virescens, and Scincus cyanurus; see below).
+Lacerta vittata: Wied transmitted this name to Schinz, but its identity has been generally 
+overlooked. Peters and Donoso-Barros (1970: 152) wrote that “Stejneger, in a handwritten note 
+in an interleaved copy of Boulenger, 1885, has noted that Boulenger did not include Lacerta 
+vittata Schinz . . . as a species of Kentropyx. it is unclear to us what its relationship is, although 
+Stejneger placed it opposite calcaratus Spix, suggesting a possible synonymy.” overlooked was 
+Wied’s own explanation in the Beiträge (Wied, 1825: 186) and in letterpress Abbildungen text 
+for Lacerta striata Dau[din] (Wied, 1829: lief. 13). Wied originally had intended his manu-
+script name “vittata” for an undescribed species, but, after comparing it with Merrem’s (1809) 
+“Borckischen Eidechse” (fig. 1), Wied followed Merrem’s later work (1820: 65) and mistakenly 
+used the name Lacerta striata Daudin, 1802.7
+
+As it turns out, however, Stejneger’s handwritten note in Boulenger’s Catalogue was pre-
+scient. The species that Wied had intended to name “vittata” had indeed been undescribed 
+prior to Schinz’s publication! hoogmoed (1973: 301) compared descriptions and concluded 
+that Lacerta vittata Schinz, 1822, is a senior synonym of Kentropyx calcarata Spix, 1825. The 
+senior name remains unused, however, and we agree with hoogmoed that Spix’s well-known 
+name should be conserved (see below under Protection of Three Junior Synonyms).
+
+Lacerta cyanomelas: Lacerta cyanomelas Schinz, 1822, is a senior objective synonym of 
+Teius cyanomelas Wied, 1824 (1822–1831), but the situation is unusual because the correct 
+
+5 Although Wied gave some specimens to Blasius Merrem, there is no published evidence that he ever sent 
+specimens to Schinz. in any case, the majority of specimens on which these particular descriptions were 
+based seem to be no longer extant, although some may yet show up in European collections. Many of Wied’s 
+specimens evidently disappeared prior to the 1860 preparation of his handwritten “catalogue” at AMNh (a 
+list not of specimens but of genera and species that were still represented in his collection).
+6 it would seem only fair that such names should be attributed to “Wied in Schinz,” as was done for example 
+by Wagler (1828: text for “Polychrus virescens Prinz von Neuwied in Schinz.”). But it is not explicitly dem-
+onstrated within Schinz’s work itself that Wied supplied both the names and the descriptions as mandated 
+in the authorship section of the Code (iCzN, 1999, art. 50.1).
+7 on facing pages of german and latin texts, Merrem (1820: 65) misidentified and misspelled his “Eidechse 
+borkische [sic]” as Lacerta striata. Merrem’s (1809: 2) “Die Borckische Eidechse” currently is known as the 
+guayanan Kentropyx borckiana (Peters), because W. Peters (1869: 62) was the first to provide a latin binomen 
+for the species (hoogmoed, 1973: 292–293).
+
+After citing Merrem’s original description, gallagher and Dixon (1992: 137) said that “The meaning of 
+‘Borckische’ has not been determined.” As made clear in the first paragraph of Merrem’s description, however, 
+the name honors grafen (Count) von Borcke, whose collection supplied the specimen that was illustrated 
+and described in detail (Merrem, 1809: 2–9, pl. 1 [reproduced herein as fig. 1]).
+
+6 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+fig. 1.  “Die Borckische Eidechse,” a lizard described in 1809 by Blasius Merrem and much later given the 
+latin name Centropyx borckiana by Wilhelm Peters. hoogmoed (1973: 292–293) cleared up confusion 
+associated with the name of this species, which currently is known as the guayanan Kentropyx borckiana 
+(Peters, 1869). The dorsal surfaces probably were partially green in life, the blue color resulting from pres-
+ervation in spirits. (hand-painted plate reproduced ×0.90 from Merrem, 1809, courtesy of harvard univer-
+sity Botany libraries.)
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+7
+
+spelling “cyanomelas” does not appear on Schinz’s page 46, which contains the description (the 
+corrected name is given in the errata). Known copies of Schinz’s Thierreich all have a spelling 
+mistake on page 46. We are aware of the following three misspelled versions of the specific 
+name: (1) “cyanomlas” is the most common version, appearing in copies of Das Thierreich in 
+the Academy of Natural Sciences of Philadelphia and the Museum of Comparative zoology, 
+and in private copies owned by Kraig Adler and Rodrigues. (2) “cyanom  las”—with a variably 
+sized blank space—is seen in copies in the Museum National d’histoire Naturelle (small space) 
+and in the National Museum of Natural history, Smithsonian institution (large space). The 
+blank space varies in size from about one to three letter spaces. (3) “cyanom” is a version 
+known only in a copy of Schinz in the Natural history Museum in london. it was cited as a 
+name “not mentioned elsewhere” by Vanzolini (1977a: 29), who has a xerographic copy of the 
+British Museum book. The total of this variation can be explained by the supposition that the 
+last three letters of “cyanomlas” had become loosened in the printing chase, gradually separat-
+ing from “cyanom” and finally being lost altogether during printing. in support of this hypoth-
+esis,  it  is  noted  that  species  names  in  Schinz  terminate  with  a  full  stop  (period),  which  is 
+lacking in the truncated Lacerta “cyanom” version of the name.
+
+The first misspelling is corrected on an unnumbered errata page (= p. 828) of the Thier-
+reich: “Seite 46 zeile 8 lies cyanomelas statt cyanomlas.” The same correction appears in the 
+British Museum copy, which has the spelling “cyanom” on page 46. Schinz’s correction to cya-
+nomelas clearly determines the correct name, but, to be safe, as first revisers to have cited sev-
+eral multiple spellings we naturally also select cyanomelas as correct (iCzN, 1999: art. 24.2.3).
+The  name  Lacerta  cyanomelas  Schinz,  1822,  clearly  has  priority  over Teius  cyanomelas 
+Wied, 1824 (1822–1831). The identity of this lizard, however, is best determined from the 
+illustration and information published by Wied (see below under identity and Rediscovery of 
+Teius cyanomelas Wied).
+
+As an aside, it is not generally realized that Wied had unpublished manuscript names that 
+he abandoned before publication (see under Lacerta vittata above, and Polychrus virescens and 
+Scincus cyanurus below). Wied’s original name for cyanomelas was “Lacerta 5-lineata,” based 
+on a specimen taken at Mucuri, April 20, 1816. Wied’s pen-and-watercolor field sketch, with 
+name and data added by his hand, is reproduced in Bosch (1991: 237). it clearly is the sketch 
+copied by Wied’s artist for publication in the Abbildungen as Teius cyanomelas (Wied, 1824 
+[1822–1831]: lief. 5).
+
+Agama picta: Agama picta Schinz, 1822, is the senior objective synonym of Agama picta 
+Wied, 1823: lief. 3 (not “1825” auct.). Wied referenced Schinz by page number (without using 
+the name) in his subsequent accounts of A. picta in Abbildungen letterpress and in the Beiträge. 
+The taxon has been treated both as a species of Enyalius and as a subspecies of E. catenatus 
+(Wied, 1821). Currently, Enyalius pictus is recognized as a full species living in the forests of 
+coastal Brazil between the Jequitinhonha and Doce rivers (Rodrigues et al., 2006). The senior 
+authorship of picta changes to Schinz, but the original concept of the taxon is that of Wied 
+(1823, lief. 3; 1825: 125, 604).
+
+8 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+Polychrus virescens: This is similar to the situation with Lacerta vittata above, except that 
+Wied did not mention Schinz (1822) in the Abbildungen or Beiträge synonymies. Wied instead 
+explained in his Beiträge species account of Polychrus marmoratus that Schinz had used Poly-
+chrus virescens based on a short note from him, but that P. virescens could no longer be kept 
+(Wied, 1825: 124). unaware of these comments, Wagler (1828: pl. 12, text) illustrated a specimen 
+of Polychrus marmoratus under the name “Polychrus virescens Prinz von Neuwied in Schinz.” 
+Voigt (1832: 67) referenced P. virescens to Wagler (ibid.) rather than Schinz (1822). Schinz later 
+(1833–1835: 88–89, pl. 28) reproduced Wagler’s color plate in reverse image and noted that 
+“Sie ist nach Wied kaum verschieden von P. marmoratus und warscheinlich das Männchen 
+[According to Wied it scarcely differs from P. marmoratus and is probably the male].”
+
+in  letterpress  accompanying  the  Abbildungen  plate  Wied  noted  that  “Diese  bekannte 
+Eidechse ist nirgends in ihren leibliche farben abgebildet [The living color of this well-known 
+lizard has been nowhere described]” (Wied, 1829: lief. 13). he said in the Beiträge (Wied, 1825: 
+123) that he had obtained only a single specimen alive, a female from Villa Viçoza. The prince’s 
+pen-and-watercolor field sketch of this specimen and a copy of it (by the artist Beckers) for 
+publication in the Abbildungen are reproduced in Bosch (1991: 243–244).
+
+Polychrus virescens Schinz is correctly shown in Peters and Donoso-Barros (1970: 234) as 
+a synonym of Polychrus marmoratus (linnaeus), but it had been Wied’s manuscript name for 
+a new species that he subsequently re-identified as “Polychrus marmoratus, [sensu] Merrem.”
+Scincus cyanurus: This was Wied’s manuscript name for a lizard that he later misidentified 
+as “S[cinus]. quadrilineatus” (Wied, 1824: 664) and treated in detail as “Gymnophthalmus 
+quadrilineatus Merr[em]” (Wied, 1825: 198; 1829: lief. 13). Lacerta quadrilineata is a linnaean 
+name recognized as the nominal type species of Merrem’s (1820: 74) genus Gymnophthalmus. 
+Wied, however, had a lizard not previously described. Wied’s description is clear and calls 
+attention to the bright blue tail of the species (not shown in the Abbildungen plate because the 
+sky-blue color disappears completely in preservative fide Wied, 1825: 203, 204). it is the only 
+blue-tailed lizard living in an area traveled by Wied.
+
+Reinhardt and lütken (“1861” [1862]: 211) honored the prince by naming Gymnophthal-
+mus maximiliani based on new material and the unavailable name “Gymnophthalmus quadri-
+lineatus Wied.” Boulenger (1885: 426) referred both these names to the then recently erected 
+genus Micrablepharus Boettger, 1885;8 Boulenger also placed the nominal type species of Micra-
+blepharus (M. glaucurus Boettger) as a synonym of M. maximiliani.
+
+Scincus cyanurus Schinz, 1822, is an overlooked senior synonym of Micrablepharus maxi-
+miliani (Reinhardt and lütken “1861” [1862]), which is a well-known name worthy of saving 
+(see under Protection of Three Junior Synonyms). it is fortunate that Scincus cyanurus Schinz, 
+1822, can be qualified below as a nomen oblitum, inasmuch as it also is a senior homonym of 
+a well-known Pacific skink (Scincus cyanurus lesson, 1826 = Emoia cyanura; see ineich and 
+zug, 1991, for literature).
+
+8 Authorship of Boettger’s Micrablepharus is mistakenly attributed to “Dunn, 1932” in recent gymnophthalmid 
+classifications (Pellegrino et al., 2001: 330; Castoe et al., 2004: 465).
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+9
+
+Buf[o] cinctus: Bufo cinctus Schinz, 1822, is the senior synonym of Bufo cinctus Wied, 
+1823. Wied gave the page reference to Schinz (1822: 177) in the Abbildungen letterpress text 
+accompanying his Bufo cinctus plate (Wied, 1823: lief. 3) and in his species account in the 
+Beiträge (Wied, 1825: 564). The name Bufo cinctus has long been in the synonymy of Bufo cru-
+cifer Wied, 1821 (= Chaunus crucifer fide frost et al., 2006: 364).
+
+The Rediscovery and identity of Teius cyanomelas Wied, 1824
+
+history of the Name: Among the many new animals discovered and described by Wied 
+was Teius cyanomelas, which was illustrated in a color plate in the fifth issue of the Abbildungen 
+(Wied, 1824 [1822–1831]: lief. 5, fig. 2 of composite pl.). This lizard was accurately figured and 
+had a precise type locality (open areas around the mouth of Rio Mucuri in state of Bahia, Bra-
+zil), and was given a detailed description in the Beiträge (Wied, 1825: 180–185). Nonetheless, 
+it was never properly recognized. Bocourt (1874: 251, footnote 1), without justification, refer-
+enced it as Ameiva cyanomelas, but considered Wied’s illustration and description both inade-
+quate for a proper allocation of the species, suggesting that it was close to Ameiva festiva, A. 
+edracantha, and A. septemlineata, or possibly a synonym of Cnemidophorus lemniscatus. Bou-
+lenger (1885: 363) placed Teius cyanomelas with a question mark in the synonymy of Cnemi-
+dophorus lemniscatus, an allocation followed by most subsequent authors. Burt (1931: 32), in 
+a major revision of Cnemidophorus, thought that Bocourt’s suggestion that cyanomelas might 
+be a synonym of C. lemniscatus “rather far fetched, since the photograph [sic] shows only two 
+distinct light lines on each side, and a single middorsal line,” but Burt considered Ameiva to 
+be probably the right genus. Peters and Donoso-Barros’ (1970: 94) influential catalog followed 
+Boulenger in keeping T. cyanomelas with a question mark in the synonymy of Cnemidophorus 
+lemniscatus, although cyanomelas was erroneously dated from the 1825 Beiträge.
+
+it is understandable that cyanomelas was attributed to Cnemidophorus by most authors 
+from Boulenger on, but its continued association with C. lemniscatus was unwarranted because 
+lemniscatus sensu lato occurs from Central America to Amazonia where Wied, a fine zoologist 
+who precisely identified his localities, never collected.
+
+Vanzolini (1996: 214), however, recognized the problem and considered cyanomelas to be 
+an unrecognized species of Cnemidophorus. Except for Amazonian forms, Cnemidophori from 
+tropical South America have been attributed to the ocellifer group—a multispecies complex 
+(Rodrigues, 1987: 224), including new species recently described (Dias et al., 2002; feltrim and 
+lema, 2000; Rocha et al., 1997, 2000; Dias et al., 2002; Colli et al., 2003a, 2003b). A thorough 
+taxonomic revision of the group is needed.
+
+Rediscovery and Taxonomic Conclusion: Recently, during a field trip to obtain speci-
+mens of Cnemidophorus along the Atlantic coast of Brazil for an ongoing molecular and karyo-
+typic study, Rodrigues’ group collected several specimens of Cnemidophorus nativo. This is a 
+parthenogenetic species of the ocellifer group recently described from Reserva florestal da 
+Companhia Vale do Rio Doce, municipality of linhares, state of Espirito Santo (Rocha et al., 
+1997). The specific name (nativo) was given in reference to its habitat, the open shrubby areas 
+
+10 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+fig. 2.  Cnemidophorus nativo Rocha et al., 1997, a Brazilian lizard discovered in 1818 by Prince Maximilian 
+zu Wied. The earlier names Lacerta cyanomelas Schinz, 1822, and Teius cyanomelas Wied, 1824 (1822–1831) 
+are qualified herein as forgotten names (nomina oblita), whereas Cnemidophorus nativo is qualified as a pro-
+tected name (nomen protectum). Top: The original Abbildungen illustration of Teius cyanomelas Wied, repro-
+duced ×1.38 from a composite plate (Wied, 1824 [1822–1831], lief. 5). The plate was prepared from an artist’s 
+copy of Wied’s pen-and-watercolor field sketch, in which the background was a horizontal line. The accom-
+panying letterpress text includes “Rücken schwarz, mit einem breiten bläulichen längsstreif in der Mitte, und 
+zwei weißbläulichen schmäleren an der Seite [Back black, with a wide bluish median stripe, and two narrower 
+bluish white lateral stripes].” Bottom: A specimen of Cnemidophorus nativo from Restinga do Barra Seca, 
+linhares, state of Espirito Santo, Brazil. The extent of color variation is unknown, but Rocha et al. (1997: 378) 
+wrote that the median “light salmon stripe . . . continues mostly as light grey and/or light blue [emphasis 
+added] along the dorsal region of tail” and “vivid white” lateral stripes.
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+11
+
+near the coast (“campo nativo”) where it occurs. The species is fairly abundant in open habitats 
+near the eastern coast of Brazil from Regência in the state of Espirito Santo (our records), to 
+Camamú in the state of Bahia (Vrcibradic et al., 2002). it is the only species of Cnemidophorus 
+present in this long stretch of approximately 700 km (Rocha, 2000); it is considered “vulnera-
+ble” in the list of endangered Brazilian species (iBAMA, 2008; Rodrigues, 2005). The striking 
+color pattern of living specimens and the apparent absence of other Cnemidophorus in the 
+range of C. nativo caused us to revisit Wied’s figure and description of Teius cyanomelas. The 
+type localities of T. cyanomelas and C. nativo are only about 100 km apart and our comparisons 
+of fresh material of nativo with Wied’s figure and detailed description correspond so closely 
+that we conclude that a single species is involved (see fig. 2).
+
+As already noted, the name Lacerta cyanomelas Schinz, 1822, has priority over Teius cya-
+nomelas Wied, 1824 (1822–1831). Even Schinz’s (1822: 46) second-hand 10-line description 
+permits a fairly good identification of this species of Cnemidophorus. The smooth ventral scales, 
+disposed in six longitudinal rows, granular dorsals, color pattern (especially the undulating 
+borders of the middorsal stripe) and size referred to by Schinz are sufficient to identify the 
+species. Although Wied’s only specimen had a broken tail (see fig. 2), both Schinz (1822: 46) 
+and Wied (1825: 180) diagnosed the species as having a long tail, but that was an accurate 
+extrapolation; Wied (ibid.: 181), with his usual attention to detail, explained that the broken 
+tail was “scheinbar viel länger als der Körper [seemingly much longer than the body].”
+
+Wied’s unique specimen of Teius cyanomelas was not in the collection purchased by the 
+American Museum. Nevertheless, it seems evident that Lacerta cyanomelas Schinz, 1822, and 
+Teius cyanomelas Wied, 1824 (1822–1831) are senior names for Cnemidophorus nativo Rocha 
+et al., 1997. The last name has become well-enough known to receive protected status under 
+iCzN criteria.
+
+Protection of Three Junior Synonyms
+
+The Principle of Priority is a cornerstone of zoological nomenclature. Some taxonomists 
+may advocate rather strict adherence to this principle, believing that the oldest available name 
+of a taxon should be nearly always the one used. Nonetheless, it seems a disservice to other 
+biologists and the public when old, unused names are dredged up to replace names currently 
+applied to well-known animals. Precedence of a younger name over an older one sometimes 
+can be gained by the cumbersome route of petitioning the international Commission on zoo-
+logical Nomenclature. if the taxa are rarely mentioned, this strategy is likely to be unsuccessful 
+and therefore not worth the effort; it almost certainly will fail if only the authorship of a rarely 
+used name is changed, as in the case of Enyalius pictus (Wied, 1823)—now Enyalius pictus 
+(Schinz, 1822).
+
+Article 23.9 of the latest Code (iCzN, 1999), however, provides a procedure for saving 
+well-known junior names without formal petition. We use that method to qualify the names 
+of the following three species as protected names (nomina protecta).
+
+12 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+Kentropyx calcarata Spix, 1825
+
+As explained above, the description of Lacerta vittata Schinz, 1822, was based on a manu-
+script name transmitted by Wied to Schinz, who validated the name. hoogmoed (1973: 301) 
+pointed out that Lacerta vittata Schinz, 1822, was a senior synonym of Kentropyx calcarata and 
+indicated intent to propose suppression by the iCzN. Although the proposal was not submit-
+ted, other authors (especially gallagher and Dixon, 1992: 141–142, and Ávila-Pires, 1995: 524) 
+accepted the synonymy but followed hoogmoed’s lead in continuing use of the junior name.
+To our knowledge, the name Lacerta vittata Schinz has not been used as a valid name since 
+its publication and specifically “has not been used as a valid name after 1899” (iCzN, 1999: 
+art. 23.9.1.1). The junior name Kentropyx calcarata Spix, 1825, has been used as a “presumed 
+valid name, in at least 25 works, published by at least 10 authors in the immediately preceding 
+50 years and encompassing a span of not less than 10 years” (iCzN, 1999: art. 23.9.1.2).
+
+The following 25 references (among many available) meet the criteria quoted above: Ávila 
+and Silva, 2009; Ávila-Pires, 1995, 2005; Ávila-Pires et al., 2009; Castoe et al., 2004; Cole et al., 
+1995; Cosson et al., 1999; gallagher and Dixon, 1980, 1992; gallagher et al., 1986; gasnier et 
+al., 1994; hoogmoed, 1973, 1979; hoogmoed and lescure, 1975; lima et al., 2001; MacCulloch 
+and lathrop, 2007; Pellegrino et al., 2001; Perry, 1999; Peters and Donoso-Barros, 1970; Reeder 
+et al., 2002; Ribeiro-Júnior et al., 2006; Smith and Ballinger, 2001; Telford and Telford, 2003; 
+Werneck et al., 2009; Vitt, 1991a.
+
+Kentropyx calcarata Spix, 1825, the younger but valid name for the species, is here desig-
+nated as a nomen protectum. it has precedence over the senior name Lacerta vittata Schinz, 
+1822, which is here qualified as a nomen oblitum, and over the unavailable name Lacerta striata 
+sensu Wied, 1825 (non Daudin nec sensu Merrem), which was a misidentification in the sense 
+of the Code (iCzN 1999: art. 49).
+
+Micrablepharus maximiliani (Reinhardt and lütken, “1861” [1862])
+
+As explained above, Scincus cyanurus Schinz, 1822, is the senior name (Wied’s “Gymnoph-
+thalmus quadrilineatus” was a misidentification). To our knowledge, Scincus cyanurus Schinz 
+“has not been used as a valid name after 1899” (iCzN, 1999: art. 23.9.1.1). The junior name Gym-
+nophthalmus maximiliani Reinhardt and lütken, “1861” [1862]—known since 1885 as Micra-
+blepharus maximiliani (Reinhardt and lütken, “1861” [1862])—has been used as a “presumed 
+valid name, in at least 25 works, published by at least 10 authors in the immediately preceding 
+50 years and encompassing a span of not less than 10 years” (iCzN, 1999: art. 23.9.1.2).
+
+The following 25 references meet the criteria quoted above: Ávila-Pires, 1995; Castoe et al., 
+2004; Cunha, 1961; freire, 1996; Mesquita et al., 2006; Moreira et al., 2009; Nogueira et al., 2009; 
+Pellegrino et al., 2001; Peters and Donoso-Barros, 1970; Presch, 1980; Rodrigues, 1996, 2003; 
+Rodrigues et al., 2005, 2007; Shepard, 2007; Teixeira et al., 1999; Vanzolini, 1977b, 1981, 2003; 
+Vanzolini and Carvalho, 1991; Vanzolini et al., 1980; Vitt, 1991b; Werneck and Colli, 2006; 
+Williams and Vanzolini, 1980; yonenaga-yassuda and Rodrigues, 1999.
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+13
+
+Micrablepharus maximiliani (Reinhardt and lütken, “1861” [1862]), the younger but valid 
+name for the species, is here designated as a nomen protectum. it has precedence over the senior 
+name Scincus cyanurus Schinz, 1822, which is here qualified as a nomen oblitum, and over the 
+unavailable name Gymnophthalmus quadrilineatus sensu Wied, 1825 (non linnaeus nec sensu 
+Merrem), which was a misidentification in the sense of the Code (iCzN 1999: art. 49).
+
+Qualifying Scincus cyanurus Schinz, 1822, as a nomen oblitum also solves the problem of 
+homonymy with the later-named Scincus cyanurus lesson, 1826—a wide-spread Pacific skink 
+currently known as Emoia cyanura (lesson) (see p. 8).
+
+Cnemidophorus nativo Rocha et al., 1997
+
+As noted above, Lacerta cyanomelas Schinz, 1822, and Teius cyanomelas Wied, 1824 (1822–
+1831) are senior names. To our knowledge, neither has “been used as a valid name after 1899” 
+(iCzN, 1999: art. 23.9.1.1). The junior name Cnemidophorus nativo Rocha et al., 1997, has been 
+used as a “presumed valid name, in at least 25 works, published by at least 10 authors in the 
+immediately preceding 50 years and encompassing a span of not less than 10 years” (iCzN, 
+1999: art. 23.9.1.2).
+
+The following 25 references meet the criteria quoted above: Adeoye and ogunbanwo, 2007; 
+Cabrera, 2004; Colli et al., 2003a, 2003b, 2009; Dias and Rocha, 2004; Dias et al., 2002; feltrim 
+and lema, 2000; giugliano et al., 2006; Menezes et al., 2000, 2004a, 2004b; Mesquita and Colli, 
+2003; Peccinini-Seale et al., 2004; Peloso et al., 2008; Reeder et al., 2002; Ribeiro et al., 2007; 
+Rocha et al. 1997, 1999, 2000, 2005, 2008, 2009; Rodrigues, 2005; Vrcibradic et al., 2002.
+
+Cnemidophorus nativo Rocha et al., 1997, the younger but valid name for the species is here 
+designated as a nomen protectum. it has precedence over the senior names Lacerta cyanomelas 
+Schinz,  1822,  and  Teius  cyanomelas  Wied,  1824  (1822–1831),  which  are  here  qualified  as 
+nomina oblita.
+
+ACKNoWlEDgMENTS
+
+Schinz’s Thierreich is rare and, for bibliographic help in checking copies for variable spell-
+ings of a new species name, we are very grateful to Kraig Adler (personal library), Antoine 
+fouquet (the Muséum National d’histoire Naturelle, Paris), Colin McCarthy (the Natural his-
+tory Museum, london), Jay M. Savage (at the Academy of Natural Sciences of Philadelphia and 
+the National Museum of Natural history, Smithsonian institution), and Mary Sears (harvard 
+university). John E. Cadle had helped search for holding libraries.
+
+A photocopy and electronic scans of Merrem’s rare 1809 article (Amphibiologische Beiträge) 
+were kindly provided by lisa DeCesare, head of Archives, Botany libraries, at harvard uni-
+versity. figure 1 is reprinted from that source by permission of harvard university, Cambridge, 
+Massachusetts.
+
+for continued support of his research, Myers thanks Robert g. goelet, former president and 
+
+Chairman Emeritus of the Board of Trustees of the American Museum of Natural history.
+
+14 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+Rodrigues thanks fundação de Amparo à Pesquisa do Estado de São Paulo (fAPESP) and 
+Conselho  Nacional  de  Desenvolvimento  Científico  e  Tecnológico  (CNPq)  for  support. for 
+other help in facilitating his work, he thanks D. Pavan, E. Schlenz, f. Curcio, J. Cassimiro, J.M. 
+guellere, R.C. Amaro-gillardi, R. Santos, and R. Villela. important help in the field was pro-
+vided by Renato Moraes de Jesus, from Companhia Vale do Rio Doce.
+
+for reading and critically commenting on the manuscript, we thank Kraig Adler, Aaron 
+
+M. Bauer, Darrel frost, Sven Mecke, and grace M. Tilger.
+
+REfERENCES
+
+Adeoye,  g.o.,  and  o.o.  ogunbanwo.  2007.  helminth  parasites  of  the  African  lizard  Agama  agama 
+
+(Squamata: Agamidae), in lagos, Nigéria. Revista de Biología Tropical 55 (2): 417–425.
+
+Adler, Kraig (editor). 1981. Johann Baptist von Spix & Johann george Wagler. herpetology of Brazil, 
+with an introduction by P.E. Vanzolini. [lawrence, KS]: Society for the Study of Amphibians and 
+Reptiles, facsimile Reprints in herpetology.
+
+Adler, Kraig. 2007. herpetologists of the past, part 2. In K. Adler (editor), Contributions to the history of 
+herpetology, vol. 2, pp. 7–273. Saint louis, Mo: Society for the Study of Amphibians and Reptiles.
+Anglo-American Cataloguing Rules. 1998. Anglo-American cataloguing rules. 2nd ed., 1998 revision. 
+Prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee 
+of the American library Association, the Australian Committee on Cataloguing, the British library, 
+the Canadian Committee on Cataloguing, the library Association, the library of Congress. Chi-
+cago: American library Association, xli, 676 pp.
+
+Ávila, R.W., and R.J. da Silva. 2009. helminths of the teiid lizard Kentropyx calcarata (Squamata) from 
+
+an Amazonian site in western Brazil. Journal of helminthology 83 (3): 267–269.
+
+Ávila-Pires, Teresa Cristina Sauer de. 1995. lizards of Brazilian Amazonia (Reptilia: Squamata). zoolo-
+
+gische Verhandelingen (leiden) 299: [viii], 1–706.
+
+Ávila-Pires, Teresa Cristina Sauer de. 2005. Reptiles. In T. hollowell and R.R. Reynolds (editors), Check-
+list of the terrestrial vertebrates of the guiana Shield. Bulletin of the Biological Society of Washing-
+ton 13: 24–40.
+
+Ávila-Pires, Teresa Cristina Sauer de, laurie Joseph Vitt, Shawn Scott Sartorius iii, and Peter Andrew 
+zani. 2009. Squamata (Reptilia) from four sites in southern Amazonia, with a biogeographic analy-
+sis of Amazonian lizards. Boletim do Museu Paraense Emílio goeldi Ciências Naturais 4 (2): 99–118.
+Bocourt, Marie-firmin. 1874. (livraison 4) In A.h.A. Duméril, M.-f. Bocourt, and f. Mocquard (1870–
+1909), Études sur les reptiles, xiv, 1012 pp. + map + 99 pls. in 17 livraisons. In Mission Scientifique 
+au Mexique et dans l’Amérique Centrale, Recherches zoologiques: pt. 3, sect. 1. Paris: imprimerie 
+Nationale.9
+
+Boettger, oskar. 1885. liste von Reptilien und Batrachiern aus Paraguay. zeitschrift für Naturwissen-
+
+schaften 58: 213–248.
+
+Bosch, Robert, gmbh [corporate author]. 1986–1991. Brasilien-Bibliothek der Robert Bosch gmbh. 
+Katalog. Stuttgart: Deutsch Verlags-Anstalt, 2 volumes in 3, including many color pls. Vol. 1: 1986, 
+
+9 See Vanzolini (1977: 115–116) for commentary and attribution of authorship and dates for the 17 livraisons 
+of this monumental but bibliographically difficult work. it was reprinted in 1978 by Arno Press (New york), 
+from the copy in the American Museum of Natural history.
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+15
+
+Abgeschlossen zum Jahresende 1983 (chronological bibliography, edited by S. Koppel), xxi, 516 pp. 
+Vol. 2: Nachlaß des Prinzen Maximilian zu Wied-Neuwied, in 2 parts. Part 1: 1988, illustration zur 
+Reise 1815 bis 1817 in Brasilien (edited by R. löschner and B. Kirschstein-Kamber), 217 pp. Part 
+2: 1991, Briefwechsel und zeichnungen zu den naturhistorischen Werken (edited by B. Kirschstein-
+Kamber, S. Koppel, and R. löschner), 366 pp.
+
+Boulenger, george Albert. 1885. Catalogue of the lizards in the British Museum (Natural history). 2nd 
+
+ed. london: Trustees of the British Museum. Vol. 2, xiii, 497 pp. + 24 pls.
+
+Burt, Charles E. 1931. A study of the teiid lizards of the genus Cnemidophorus with special reference to 
+
+their phylogenetic relationships. Bulletin united States National Museum 154: viii, 286 pp.
+
+Cabrera, Maria R. 2004. A new species of Cnemidophorus (Squamata: Teiidae) from western Argentina. 
+
+Amphibia-Reptilia 25 (2): 265–275.
+
+Castoe, Todd A., Tiffany M. Doan, and Christopher l. Parkinson. 2004. Data partitions and complex models 
+
+in Bayesian analysis: the phylogeny of gymnophthalmid lizards. Systematic Biology 53 (3): 448–469.
+
+Cole, Charles J., herbert C. Dessauer, Carol R. Townsend, and Margaret g. Arnold. 1995. Kentropyx 
+borckiana (Squamata: Teiidae): a unisexual lizard of hybrid origin in the guiana Region, South 
+America. American Museum Novitates 3145: 1–23.
+
+Colli, guarino R., et al. (+14 coauthors). 2003a. A new species of Cnemidophorus (Squamata, Teiidae) 
+from the cerrado biome in central Brazil. occasional Papers Sam Noble oklahoma Museum of 
+Natural history 14: 1–14.
+
+Colli, guarino R., et al. (+8 coauthors). 2003b. A critically endangered new species of Cnemidophorus 
+(Squamata, Teiidae) from a cerrado enclave in southwestern Amazonia, Brazil. herpetologica 59 
+(1): 76–88.
+
+Colli, guarino R., lilian g. giugliano, Daniel o. Mesquita, and frederico g.R. frança. 2009. A new 
+species of Cnemidophorus from the Jalapão region, in the central Brazilian cerrado. herpetologica 
+65 (3): 311–327.
+
+Cosson, J.f., et al. 1999. Ecological changes in recent land-bridge islands in french guiana, with empha-
+
+sis on vertebrate communities. Biological Conservation 91 (1999): 213–222.
+
+Cunha, osvaldo Rodrigues da 1961. lacertílios da Amazônia. ii. os lagartos da Amazônia Brasileira, 
+com especial referência aos representados na coleção do Museu goeldi. Boletim do Museu Paraense 
+Emílio goeldi, Nova Serie zoologia 39: 1–189.
+
+Daudin, françois-Marie. 1802 (“An X”). histoire naturelle, générale et particulière des reptiles. Paris: f. 
+
+Dufart, vol. 3, 452 pp. + pls. 29–45.
+
+Dias, Eduardo J.R., and Carlos f.D. Rocha. 2004. Thermal ecology, activity patterns and microhabitat 
+use by two sympatric whiptail lizards (Cnemidophorus abaetensis and Cnemidophorus ocellifer) from 
+northeastern Brazil. Journal of herpetology 38 (4): 586–588.
+
+Dias, Eduardo José dos Reis, Carlos frederico D. Rocha, and Davor Vrcibradic. 2002. New Cnemidopho-
+
+rus (Squamata; Teiidae) from Bahia State, northeastern Brazil. Copeia 2002 (4): 1070–1077.
+
+feltrim, Aline Costa, and Thales de lema. 2000. uma nova espécie de Cnemidophorus Wagler, 1830 do 
+
+estado do Rio grande do Sul Brasil (Sauria, Teiidae). Biociências (Porto Alegre) 8 (1): 103–114.
+
+freire, Eliza Maria Xavier. 1996. Estudo ecológico e zoogeográfico sobre a fauna de lagartos (Sauria) das 
+dunas de Natal, Rio grande do Norte e da Restinga de Ponta de Campina, Cabedelo, Paraiba, Bra-
+sil. Revista Brasileira de zoologia 13 (4): 903–921.
+
+frost,  Darrel  R.,  et  al.  (+18  coauthors).  2006.  The  amphibian  tree  of  life.  Bulletin  of  the  American 
+
+Museum of Natural history 297: 1–370 pp. + detached foldout cladogram.
+
+16 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+gallagher, Daniel Stephen, Jr., and James Ray Dixon. 1980. A new lizard (Sauria: Teiidae: Kentropyx) 
+
+from Brasil. Copeia 1980 (4): 616–620.
+
+gallagher, Daniel Stephen, Jr., and James Ray Dixon. 1992. Taxonomic revision of the South American 
+lizard genus Kentropyx Spix (Sauria: Teiidae). Museo Regionale di Scienze Naturali (Turin), Bollet-
+tino 10 (1): 125–171.
+
+gallagher, Daniel Stephen, Jr., James Ray Dixon, and David J. Schmidly. 1986. geographic variation in 
+the Kentropyx calcarata species group (Sauria: Teiidae): a possible example of morphological char-
+acter displacement. Journal of herpetology 20 (2): 179–189.
+
+gasnier, Thierry R., William E. Magnusson, and Albertina P. lima. 1994. foraging activity and diet of 
+
+four sympatric lizard species in a tropical rainforest. Journal of herpetology 28 (2): 187–192.
+
+giugliano, lilian g., Eucleia P.B. Contel, and guarino R. Colli. 2006. genetic variability and phylogenetic 
+relationships of Cnemidophorus parecis (Squamata, Teiidae) from cerrado isolates in southwestern 
+Amazonia. Biochemical Systematics and Ecology 34 (5): 383–391.
+
+hoogmoed, Marinus S. 1973. Notes on the herpetofauna of Surinam iV. The lizards and amphisbaenians 
+
+of Surinam. [Biogeographica 4]: ix, 419 pp. The hague: W. Junk.
+
+hoogmoed, Marinus S. 1979. The herpetofauna of the guianan Region. In W.E. Duellman (editor), The 
+South American herpetofauna, its origin, evolution, and dispersal. Monograph of the Museum of 
+Natural history, university of Kansas 7: 241–279. lawrence, KS: university of Kansas.
+
+hoogmoed, Marinus S., and Jean lescure. 1975. An annotated checklist of the lizards of french guiana, 
+
+mainly based on two recent collections. zoologische Mededelingen 49 (13): 141–171 + 1 pl.
+
+iBAMA. 2008. livro vermelho da fauna Brasileira ameaçada de extinção. Angelo Barbosa Monteiro 
+Machado, gláucia Moreira Drummond, and Arlindo Pereira Paglia (editors). Brasília, Df: MMA; 
+Belo horizonte, Mg: fundação Biodiversitas, vol. 2, 907 pp.
+
+iCzN. 1999. international code of zoological nomenclature, 4th ed. london: international Trust for 
+
+zoological Nomenclature, xxxix, 306 pp.
+
+ineich, ivan, and george R. zug. 1991. Nomenclatural status of Emoia cyanura (lacertilia, Scincidae) 
+
+populations in the Central Pacific. Copeia 1991 (4): 1132–1136.
+
+lima, Albertina P., fernando i.o. Suárez, and Niro higuchi. 2001. The effects of selective logging on the 
+lizards Kentropyx calcarata, Ameiva ameiva and Mabuya nigropunctata. Amphibia-Reptilia 22 (2): 
+209–216.
+
+linnaeus, Carl. 1758. Systema naturæ per regna tria naturæ, secundum classes, ordines, genera, species, 
+cum characteribus, differentiis, synonymis, locis. 10th ed. holmiae [Stockholm]: laurentius Salvius, 
+vol. 1: [iv], 824 pp.
+
+linnaeus, Carl. 1766. Systema naturæ . . . 12th ed. holmiae [Stockholm]: laurentius Salvius, vol. 1 [part 
+
+1]: 532 pp.
+
+MacCulloch, Ross D., and Amy lathrop. 2007. herpetofauna of Mount Roraima, guiana Shield Region, 
+
+northeastern South America. herpetological Review 38 (1): 24–30.
+
+Menezes, Vanderlaine A., Carlos f.D. Rocha, and guilherme f. Dutra. 2000. Termorregulação no lagarto 
+partenogenético Cnemidophorus nativo (Teiidae) em uma área de Restinga do nordeste do Brasil. 
+Revista de Etologia 2 (2): 103–109.
+
+Menezes, Vanderlaine A., Carlos f.D. Rocha, and guilherme f. Dutra. 2004a. Reproductive ecology of 
+the parthenogenetic whiptail lizard Cnemidophorus nativo in a Brazilian Restinga habitat. Journal 
+of herpetology 38 (2): 280–282.
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+17
+
+Menezes, Vanderlaine A., Davor Vrcibradic, Joaquim Júlio Vicente, guilherme f. Dutra, and Carlos f.D. 
+Rocha. 2004b. helminths infecting the parthenogenetic whiptail lizard Cnemidophorus nativo in a 
+Restinga habitat of Bahia state, Brazil. Journal of helminthology 78 (4): 323–328.
+
+Merrem, Blasius. 1809. Amphibiologische Beiträge, Erstes Stück. Annalen der Wetterauischen gesell-
+
+schaft für die gesammte Naturkunde [“zu hanau” added later to serial title] 1 (1): 1–20 + 3 pls.
+
+Merrem, Blasius. 1820. Versuch eines Systems der Amphibien (Tentamen Systematis Amphibiorum). 
+Marburg, germany: J.C. Krieger, xv, 191 pp. + 1 pl. [identically numbered facing pages, german 
+and latin texts]
+
+Mesquita, Daniel oliveira, and guarino Rinaldi Colli. 2003. geographical variation in the ecology of pop-
+ulations of some Brazilian species of Cnemidophorus (Squamata, Teiidae). Copeia 2003 (2): 285–298.
+Mesquita, Daniel o., guarino R. Colli, frederico g.R. frança¸ and laurie J. Vitt. 2006. Ecology of a 
+
+cerrado lizard assemblage in the Jalapão region of Brazil. Copeia 2006 (3): 460–451.
+
+Moreira, lorena A., Danté B. fenolio, hélder lúcio Rodrigues Silva, and Nelson Jorge da Silva Jr. 2009. 
+A preliminary list of the herpetofauna from termite mounds of the cerrado in the upper Tocantins 
+river valley. Papéis Avulsos de zoologia (São Paulo) 49 (15): 183–189.
+
+Myers, Charles W. 2000. A history of herpetology at the American Museum of Natural history. Bulletin 
+
+of the American Museum of Natural history 252: 1–232.
+
+Nogueira, Cristiano, guarino R. Colli, and Marcio Martins. 2009. local richness and distribution of the 
+
+lizard fauna in natural habitat mosaics of the Brazilian cerrado. Austral Ecology 34: 83–96.
+
+Peccinini-Seale,  Denise,  Carlos  frederico  D.  Rocha,  Terezinha  M.B.  Almeida,  Alexandre  fernando 
+Araujo, and Marco Aurélio de Sena. 2004. Cytogenetics of the Brazilian whiptail lizard Cnemidopho-
+rus  littoralis  (Teiidae)  from  a  Restinga  area  (Barra  de  Maricá)  in  southeastern  Brazil.  Brazilian 
+Journal of Biology 64 (3B): 661–667.
+
+Pellegrino, Katia C.M., Miguel T. Rodrigues, y. yonenaga-yassuda, and Jack W. Sites, Jr. 2001. A molec-
+ular perspective on the evolution of microteiid lizards (Squamata, gymnophthalmidae), and a new 
+classification for the family. Biological Journal of the linnean Society 74 (3): 315–338.
+
+ Peloso, Pedro luiz Vieira, Carlos frederico Duarte Rocha, Silvia Eliza Pavan, and Sérgio lucena Mendes 
+Peloso. 2008. Activity and microhabitat use by the endemic whiptail lizard, Cnemidophorus nativo 
+(Teiidae), in a Restinga habitat (Setiba) in the state of Espírito Santo, Brazil. South American Jour-
+nal of herpetology 3 (2): 89–95.
+
+Perry, gad. 1999. The evolution of search modes: ecological versus phylogenetic perspectives. American 
+
+Naturalist 153 (1): 98–109.
+
+Peters, James A., and Roberto Donoso-Barros. 1970. Catalogue of the Neotropical Squamata. Part ii. 
+
+lizards and amphisbaenians. Bulletin united States National Museum 297: viii, 1–293.
+
+Peters, Wilhelm. 1869 (January). Mittheilung über neue gattungen und Arten von Eidechsen. Monats-
+berichte der Königlich Akademie der Wissenschaften zu Berlin 1870: 77–66 + 1 pl. [Available as 
+1995 SSAR facsimile reprint, The herpetological contributions of Wilhelm C.h. Peters (1815–1883): 
+see 21–22 and 30 (for dating), 237–239 (for reprint).]
+
+Presch, William. 1980. Evolutionary history of the South American microteiid lizards (Teiidae: gym-
+
+nophthalminae). Copeia 1980 (1): 36–56.
+
+Reeder, Tod W., Charles J. Cole, and herbert C. Dessauer. 2002. Phylogenetic relationships of whiptail 
+lizards of the genus Cnemidophorus (Squamata, Teiidae): a test of monophyly, reevaluation of karyo-
+typic evolution, and review of hybrid origins. American Museum Novitates 3365: 1–61.
+
+18 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+Reinhardt, J., and Ch. lütken. “1861” [1862].10 Bidrag til Kundskab om Brasiliens Padder og Krybdyr. 
+Videnskabelige Meddelelser fra den naturhistoriske forening i Kjöbenhavn [Ser. 2, Vol. 3], year 1861 
+(Nr. 10–15): 143–242 + pls. 3–6. (Gymnophthalmus maximiliani is described on pp. 211–214, pl. 5.)
+Ribeiro, leonardo B., Samuel C. gomides, Aline o. Santos, and Bernadete M. Sousa. 2007. Thermo-
+regulatory behavior of the saxicolous lizard, Tropidurus torquatus (Squamata, Tropiduridae), in a 
+rocky outcrop in Minas gerais, Brazil. herpetological Conservation and Biology 3 (1): 63–70.
+
+Ribeiro-Júnior, Marco Antônio, Toby A. gardner, and Teresa C.S. Ávila-Pires. 2006. The effectiveness of 
+glue traps to sample lizards in a tropical rainforest. South American Journal of herpetology 1 (2): 
+131–137.
+
+Rocha, Carlos frederico D. 2000. Biogeografia de répteis de Restingas: distribuição, ocorrência e ende-
+mismos. In f.A. Esteves and l.D. lacerda (editors), Ecologia de restingas e lagoas costeiras: 99–116. 
+NuPEN-ufRJ, Macaé, Rio de Janeiro, Brazil.
+
+Rocha, Carlos frederico D., helena godoy Bergallo, and Denise Peccinini-Seale. 1997. Evidence of an 
+unisexual population of the Brazilian whiptail lizard genus Cnemidophorus (Teiidae), with descrip-
+tion of a new species. herpetologica 53 (3): 374–382.
+
+Rocha, Carlos frederico D., Vanderlaine Amaral de Menezes, and helena godoy Bergallo. 1999. Cnemi-
+
+dophorus nativo (Brazilian whiptail lizard). herpetological Review 30 (2): 109.
+
+Rocha, Carlos frederico D., Alexandre f. Bamberg Araújo, Davor Vrcibradic, and Elizabeth Maria Mam-
+ede da Costa. 2000. New Cnemidophorus (Squamata: Teiidae) from coastal Rio de Janeiro State, 
+southeastern Brazil. Copeia 2000 (2): 501–509.
+
+Rocha, Carlos frederico D., Monique Van Sluys, helena godoy Bergallo, and Maria Alice S. Alves. 2005. 
+Endemic and threatened tetrapods in the Restingas of the biodiversity corridors of Serra do Mar 
+and the Central da Mata Atlântica in eastern Brazil. Brazilian Journal of Biology 65 (1): 159–168.
+
+Rocha, Carlos frederico D, et al. 2008. Patterns of infestation by the trombiculid mite Eutrombicula 
+alfreddugesi in four sympatric lizard species (genus Tropidurus) in northeastern Brazil. Parasite 
+(Paris) 15 (2): 131–136.
+
+Rocha, Carlos frederico D., et al. 2009. Comportamento de termorregulação em lagartos Brasileiros. 
+
+oecologia Brasiliensis 13 (1): 115–131.
+
+Rodrigues, Miguel Trefaut. 1987. Sistemática ecologia e zoogeografia dos Tropidurus do grupo torquqtus 
+
+ao sul do Rio Amazonas (Saurua, iguanidae). Arquivos de zoologia (São Paulo) 31 (3): 105–230.
+Rodrigues, Miguel Trefaut. 1996. A new species of lizard, genus Micrablepharus (Squamata: gymnoph-
+
+thalmidae), from Brazil. herpetologica 52 (4): 535–541.
+
+Rodrigues, Miguel Trefaut. 2003. herpetofauna da caatinga. In i.R. leal, M. Tabarelli, and J.M.C. Silva 
+(editors), Ecologia e conservação da caatinga, vol. 4: 181–236. Recife: universidade federal de Per-
+nambuco.
+
+Rodrigues, Miguel Trefaut. 2005. Conservação dos répteis brasileiros: os desafios para um país mega-
+
+diverso. Megadiversidade 1 (1): 87–94.
+
+Rodrigues, Miguel Trefaut, Eliza Maria Xavier freire, Katia Cristina Machado Pellegrino, and Jack W. 
+Sites, Jr. 2005. Phylogenetic relationships of a new genus and species of microteiid lizard from the 
+
+10 This paper is variously cited as published either in “1861” (as dated on the individual parts of “Aaret 1861” 
+[= vol. 3]) or “1862” (as dated at the bottom of the volume title page). The 1862 date seems correct. Rein-
+hardt and lütken’s paper was presented (“Meddeelt i Mödet [imparted with courage]”) on December 4, 1861; 
+the next article in vol. 3 was presented in 1862 (June 20, 1862, as confirmed in vol. 4 for year 1862, p. 337).
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+19
+
+Atlantic forest of north-eastern Brazil (Squamata, gymnophthalmidae). zoological Journal of the 
+linnean Society 144 (4): 543–557.
+
+Rodrigues, Miguel Trefaut, Marco Antonio de freitas, Thais figueiredo Santos Silva, and Carolina Elena 
+Viña Bertolotto. 2006. A new species of lizard genus Enyalius (Squamata, leiosauridae) from the 
+highlands of Chapada Diamantina, state of Bahia, Brazil, with a key to species. Phyllomedusa 5 (1): 
+11–24.
+
+Rodrigues, Miguel Trefaut, et al. (+6 coauthors). 2007. A new genus of microteiid lizard from the Atlan-
+tic forests of State of Bahia, Brazil, with a new generic name for Colobosaura mentalis, and a discus-
+sion  of  relationships  among  the  heterodactylini  (Squamata,  gymnophthalmidae).  American 
+Museum Novitates 3565: 1–27.
+
+Schinz, h[einrich] R[udolf]. 1822. Das Thierreich eingetheilt nach dem Bau der Thiere als grundlage 
+ihrer Naturgeschichte und der vergleichenden Anatomie von dem herrn Ritte von Cuvier . . . aus 
+dem französischen frey [frei] übersetzt und mit vielen zusätzen versehen von h.R. Schinz. Vol. 2, 
+Reptilien, fische, Weichthiere, Ringelwürmer. Stuttgart: J.g. Cotta’schen Buchhandlung, [i]–xvi, 
+[1]–835 pp. [reptiles and amphibians on pp. 1–189]
+
+Schinz, h[einrich] R[udolf]. 1833–1835. Naturgeschichte und Abbildungen der Reptilien. Nach den 
+neuesten Systemen zum gemeinnützigen gebrauche entworfen und mit Berücksichtigung für den 
+unterricht der Jugend bearbeitet von h.R. Schinz nach der Natur und den vorzüglichsten origi-
+nalien gezeichnet von K.J. Brodtmann. Schaffhausen: Brodtmann, 240 + i–iv pp., + 102 color pls. 
+[“originally issued in 17 parts.”]11
+
+Shepard, Donald B. 2007. habitat but not body shape affects predator attack frequency on lizard models 
+
+in the Brazilian cerrado. herpetologica 63 (2): 193–202.
+
+Smith, geoffrey R., and Royce E. Ballinger. 2001. The ecological consequences of habitat and micro-
+
+habitat use in lizards: a review. Contemporary herpetology 2001 (3): 1–13.
+
+Spix, Johann Baptist von. 1825 [original ed.]. Animalia nova sive species novae lacertum quas in itinere 
+per Brasiliam annis MDCCCXVii–MDCCCXX jussu et auspiciis Maximiliani Joseph i. Bavariae 
+Regis suscepto collegit et descripsit Dr. J.B. de Spix. leipzig: hübschmann, 26 pp. + 30 colored pls. 
+[Reprinted in facsimile but with uncolored plates in Adler, 1981]
+
+Teixeira, Ruscaia D., guarino R. Colli, and Sônia N. Báo. 1999. The ultrastructure of the spermatozoa 
+of the lizard Micrablepharus maximiliani (Squamata, gymnophthalmidae), with considerations on 
+the use of sperm ultrastructure characters in phylogenetic reconstruction. Acta zoologica (Stock-
+holm) 80 (1): 47–59.
+
+Telford, Sam R., Jr., and Sam R. Telford, iii. 2003. Rediscovery and redescription of Plasmodium pifanoi 
+and description of two additional Plasmodium parasites of Venezuelan lizards. Journal of Parasitol-
+ogy 89 (2): 362–368.
+
+Vanzolini, Paulo E. 1977a. An annotated bibliography of the land and fresh-water reptiles of South 
+
+America (1758–1975). Vol. 1 (1758–1900). São Paulo: Museu de zoologia, 186 pp.
+
+11 original part covers not seen. This citation is prepared from an AMNh copy printed in leipzig and com-
+pared with a Museum of Comparative zoology copy printed in Schaffhausen. The texts seem to come off 
+the same or identical printing plates, but the MCz copy has two title pages that were printed in type faces 
+that differ from one another and differ also from type face on the AMNh title page. The subtitle material 
+differs slightly in content among all three title pages.
+
+20 
+
+AMERiCAN MuSEuM NoViTATES 
+
+No. 3714
+
+Vanzolini, Paulo E. 1977b. A new species of Colobodactylus, with notes on the distribution of a group of 
+stranded microteiid lizards (Sauria, Teiidae). Papéis Avulsos de zoologia (São Paulo) 31 (3): 19–47.
+Vanzolini, Paulo E. 1981. A quasi-historical approach to the natural history of the differentiation of 
+
+reptiles in tropical geographic isolates. Papéis Avulsos de zoologia (São Paulo) 34 (19): 189–204.
+
+Vanzolini, Paulo E. 1996. A contribuição zoológica dos primeiros naturalistas viajantes no Brasil. Revista 
+
+uSP (Dossiê Brasil dos Viajantes) (São Paulo) 30: 190–238.
+
+Vanzolini, Paulo E. 2003. A contribution to the ecogeography of the Brasilian cerrados. Biologia geral 
+
+e Experimental (São Cristóvão) 4 (1): 3–10.
+
+Vanzolini, Paulo E., and Celso Morato de Carvalho. 1991. Two sibling and sympatric species of Gym-
+nophthalmus in Roraima, Brasil (Sauria, Teiidae). Papéis Avulsos de zoologia (São Paulo) 37 (12): 
+173–226.
+
+Vanzolini, Paulo E., Ana Maria M. Ramos-Costa, and laurie J. Vitt. 1980. Répteis das caatingas. Rio de 
+
+Janeiro: Academia Brasileira de Ciências, [vi], 61 pp.
+
+Vitt, laurie J. 1991a. Ecology and life history of the wide-foraging lizard Kentropyx calcarata (Teiidae) 
+
+in Amazonian Brazil. Canadian Journal of zoology 69 (11): 2791–2799.
+
+Vitt, laurie J. 1991b. An introduction to the ecology of cerrado lizards. Journal of herpetology 25 (1): 
+
+79–90.
+
+Voigt, f[riedrich] S[iegmund]. 1832. Das Thierreich, geordnet nach seiner organisation. Als grundlage 
+der Naturgeschichte der Thiere und Einleitung in die vergleichenden Anatomie. Vom Baron von 
+Cuvier . . . Nach der zweiten, vermehrten Ausgabe ùbersetzt und durch zusàtze erveìert von f. S. 
+Voigt. zweiter Band, die Reptilien und fische enthaltend. leipzig: Brockhaus, xvi + 539 pp. [reptiles 
+and amphibians on pp. 1–179].
+
+Vrcibradic, Davor, Carlos frederico D. Rocha, and Rogério l. Teixeira. 2002. Cnemidophorus nativo 
+
+Wagler, Johann georg. 1828. Descriptiones et icones amphibiorum. Munich: J.g. Cotta, fascicle 1, [i–ii], 
+
+(NCN). herpetological Review 33 (3): 223.
+
+pls. 1–12 + printed text for each pl.
+
+Werneck, fernanda de P., and guarino R. Colli. 2006. The lizard assemblage from seasonally dry tropi-
+cal forest enclaves in the cerrado biome, Brazil, and its association with the Pleistocenic Arc. Jour-
+nal of Biogeography 33 (11): 1983–1992.
+
+Werneck, fernanda de P., lilian g. giugliano, Rosane g. Collevatti, and guarino R. Colli. 2009. Phy-
+logeny, biogeography and evolution of clutch size in South American lizards of the genus Kentropyx 
+(Squamata: Teiidae). Molecular Ecology 18 (2): 262–278.
+
+Wied, Maximilian Prinz zu. 1820–1821. Reise nach Brasilien in den Jahren 1815 bis 1817 von Maximil-
+
+ian Prinz zu Wied-Neuwied. frankfurt am Main: heinrich ludwig Brönner, 2 vols.
+
+ Wied, Maximilian Prinz zu. 1822–1831. Abbildungen zur Naturgeschichte Brasiliens, herausgegeben 
+von Maximilian, Prinzen von Wied-Neuwied.12 Weimar: im Verlag des landes-industrie-Comp-
+toirs. Recueil des Planches coloriées d’Animaux du Brésil, publié par S.A.S. le Prince Maximilien de 
+Wied-Neuwied. Weimar: au Bureau d’industrie. 90 unnum. folio pls. (most colored) ff. in 15 lief-
+erungen/livraisons of 6 pls. each. Text in german and french. [Dates: lief. 1, 1822; lief. 2–4, 1823; 
+
+12 Excluding Wied’s 1824 title provided by oken (next page), this is Wied’s only publication in which the noble 
+preposition von replaces zu, which was his family’s choice for centuries. Also, as already noted (footnote 4), 
+this is Wied’s only work in which the compound family name Wied-Neuwied was used after 1824. These 
+may have been editorial choices, not Wied’s.
+
+2011 
+
+MyERS ET Al.:  EARly 19Th-CENTuRy NAMES 
+
+21
+
+lief. 5–8, 1824; lief. 9, 1825; lief. 10–11, 1827; lief. 12, 1828; lief. 13, 1829; lief. 14, 1830; lief. 15, 
+1831]
+
+[Wied, Maximilian Prinz zu]. 1824. Verzeichniss der Amphibien, welche im zweyten Bande der Naturge-
+schichte Brasiliens vom Prinz Max von Neuwied werden beschrieben werden. (Nach Merrems Ver-
+such eines System der Amphibien). isis von oken 14 (6): columns 661–673. [Title thought to have 
+been written by oken; this is a synopsis not of the “zweyten Bande” but of the first vol. of the 1825 
+Beiträge (next item)]
+
+Wied, Maximilian Prinz zu. 1825. Beiträge zur Naturgeschichte von Brasilien, von Maximilian, Prinzen 
+zu Wied. Vol. 1 (Amphibien). Weimar, germany: im Verlage gr. h.S. priv. landes-industrie-Comp-
+toirs, xxii, 614 pp. + 3 pls.
+
+Wied, Maximilian Prinz zu. 1839–1841. Reise in das innere Nord-America in den Jahren 1832 bis 1834 
+
+von Maximilian Prinz zu Wied. Coblenz, germany: J. hoelscher, 2 vols. + pls., folding map.
+
+Williams, Ernest E., and Paulo E. Vanzolini. 1980. Notes and biogeographic comments on anoles from 
+
+Brasil. Papéis Avulsos de zoologia (São Paulo) 34 (6): 99–108.
+
+Wood, Casey A. 1931. An introduction to the literature of vertebrate zoology. london: oxford univer-
+
+sity Press, frontisp., xix, 643 pp.
+
+yonenaga-yassuda, yatiyo, and Miguel Trefaut Rodrigues. 1999. Supernumerary chromosome variation, 
+heteromorphic sex chromosomes and banding patterns in microteiid lizards of the genus Micra-
+blepharus (Squamata, gymnophthalmidae). Chromosome Research 7 (1): 21–29.
+
+Complete lists of all issues of Novitates and Bulletin are available on the web (http:// 
+digitallibrary.amnh.org/dspace). Inquire about ordering printed copies via e-mail from 
+scipubs@amnh.org or via standard mail from:
+
+American Museum of Natural History—Scientific Publications
+Central Park West at 79th Street
+New York, NY 10024
+
+ This paper meets the requirements of ANSI/NISO Z39.48-1992 (permanence of paper).
+
+
