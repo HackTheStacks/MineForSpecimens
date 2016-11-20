@@ -8,6 +8,7 @@ import path
 import signal
 from cStringIO import StringIO
 import specimen
+import re
 
 #must install pdfminer separately (pip install is recommended)
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -19,6 +20,8 @@ try:
     import urllib2 as urllib
 except ImportError:
     import urllib.request as urllib
+
+requests.packages.urllib3.disable_warnings()
 
 # Return array of all valid item IDs
 
@@ -150,24 +153,27 @@ def getMetadata(itemId):
             parsedURL = "https://digitallibrary.amnh.org/rest/bitstreams/" + str(itemId) + "/retrieve"
 
         #read pdf
-        print parsedURL
-        text = convert_pdf_to_txt(parsedURL)
+       
+    text = convert_pdf_to_txt(parsedURL)
               
-        dic = {'authors':itemAuthors,
+    dic = {'authors':itemAuthors,
            'subjects':itemSubjects,
            'title.alternatives':itemTitleAlternatives,
            'title':parsedTitle,
            'Num':parsedNum,
            'pdfURL':parsedURL,
-              'specimen':find_specimens(text)}
+            #'specimen':specimen.find_specimens(text) #first working version
+           'specimen':specimen.lookup_specimen_names(specimen.find_specimens(text))
+          }
 
     if bool(uniqueDict):
         dic.update(uniqueDict)
 
    
     #We have yet to implement this function
-    #'species':findSpecieInPDF(file.pdf)    
-      
+    #'species':findSpecieInPDF(file.pdf) 
+    print 'Item id:', itemId
+    print 'Loading article Number:',dic['Num']
     return dic
 
 def signal_handler(signum, frame):
@@ -199,6 +205,7 @@ def convert_pdf_to_txt(PDFurl):
             interpreter.process_page(page)
         except Exception,msg:
             pass
+        signal.alarm(0)
 
 
     text = retstr.getvalue()
