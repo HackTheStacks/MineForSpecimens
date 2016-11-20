@@ -3,6 +3,7 @@ import sys
 import json
 import csv
 import pandas as pd
+import requests
 
 try:
     import urllib2 as urllib
@@ -25,13 +26,15 @@ def createListOfIds():
 
 
 def getItemYear(id,yearList):
-     '''
+    
+    '''
     This function takes an id of the item in Dspace
     and a list where all the output will be stored
     '''
-    response = requests.get('https://digitallibrary.amnh.org/rest/items/' + id + '?expand=metadata',verify=False)
+        
+    response = requests.get('https://digitallibrary.amnh.org/rest/items/' + str(id) + '?expand=metadata',verify=False)
     json_data = json.loads(response.text)
-
+    
     try:
         for item in json_data['metadata']:
             #looks for the element of the list that has de date.issued
@@ -44,7 +47,7 @@ def getItemYear(id,yearList):
     except ValueError:
         output = 0
 
-    yearList.append(output)
+    return yearList.append(output)
 
 def datetimeCoerce(x):
     '''This function takes a date string as produced
