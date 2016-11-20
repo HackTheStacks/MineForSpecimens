@@ -1,0 +1,1746 @@
+A M ERIC AN  MUSEUM  NOVITATES
+
+Number 3849, 20 pp. 
+
+February 4, 2016
+
+Morphological Variation in a Unisexual Whiptail 
+
+Lizard (Aspidoscelis exsanguis) and One of Its Bisexual 
+
+Parental Species (Aspidoscelis inornata) (Reptilia: 
+
+Squamata: Teiidae): Is the Clonal Species Less Variable?
+
+CHARLES J. COLE,1 HARRY L. TAYLOR,1, 2 AND CAROL R. TOWNSEND1
+
+ABSTRACT
+
+Two clonal lineages, each comprising multiple generations of unisexual A. exsanguis, were 
+produced in the laboratory from two lizards that were collected at the same locality in the field. 
+Based on 10 meristic and four additional characters, we assessed morphological scores and 
+relative variation as follows: (1) between the two laboratory lineages; (2) between these lineages 
+pooled and samples of A. exsanguis and the bisexual (gonochoristic) A. inornata from the field; 
+and (3) between field samples of the clonal lizards and A. inornata from a nearby locality. The 
+two lineages differed significantly in the means and variances of two univariate characters and 
+the two most informative multivariate characters. Contrary to expectations, the pooled sample 
+of cloned laboratory lineages of A. exsanguis were as variable as the bisexual species in all 10 
+univariate characters and four important multivariate characters.
+
+INTRODUCTION
+
+Individuals of all-female species of whiptail lizards (genus Aspidoscelis) reproduce by parthe-
+nogenetic cloning (Lutes et al., 2010). This preserves the high levels of heterozygosity that result 
+from their hybrid origins (reviewed by Reeder et al., 2002) and explains their very low levels of 
+variation in genetic characters, such as allozymes (e.g., Neaves, 1969; Parker and Selander, 1976; 
+1 Division of Vertebrate Zoology (Herpetology), American Museum of Natural History.
+2 Department of Biology, Regis University, Denver, Colorado.
+Copyright © American Museum of Natural History 2016 
+
+ISSN 0003-0082
+
+2 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+Dessauer and Cole, 1986; Taylor et al., 2015) and microsatellite DNA (Lutes et al., 2011). Nonle-
+thal mutations can produce new or derived lineages of parthenogens, as they are cloned, so 
+multiple  clonal  lineages  can  occur  in  populations  of  unisexual  whiptail  lizards  (Parker  and 
+Selander, 1976; Dessauer and Cole, 1989; Lutes et al., 2011). Different clones can also result from 
+separate original F1 hybrid zygotes (e.g., Cole and Dessauer, 1993; Lutes et al., 2011).
+
+Considering the clonal inheritance, one might expect to find comparatively little variation 
+in morphological characters of unisexual versus bisexual species. For example, if a partheno-
+genetic female has a count of 70 epidermal scales or granules around the middle of the body, 
+17 epidermal femoral pores on the right thigh, and 30 epidermal subdigital lamellae on the left 
+fourth toe, is it likely that her offspring will have the same scale counts? Alternatively, if there 
+is variation in such characters in parthenogens, is it less than what occurs in bisexual (gono-
+choristic) species, including ancestors of the clonal forms? For the variation that does exist 
+within a clone, to what might this be attributed? Taylor et al. (2012) found surprising variation 
+in a clonal species (Aspidoscelis tesselata) compared with three bisexual species, including its 
+two progenitor relatives, based on population samples collected in the field. However, compara-
+tive variation within clonal lineages represented by multiple generations of known heritage has 
+not been studied in detail, although data for two lineages of Aspidoscelis neavesi were presented 
+by Cole et al. (2014) (discussed below).
+
+Here we compare variation in 14 morphological characters representing each of two clonal 
+lineages of parthenogenetic Aspidoscelis exsanguis that were produced in the laboratory. The 
+two lineages stemmed from different P1 females, but both were collected at the same locality 
+in the field. These P1 females are AMNH R-109468 and AMNH R-113352. The specimens 
+represent the F1–F7 generations of the AMNH R-109468 lineage and the F1–F3 generations of 
+the AMNH R-113352 lineage. Representatives of these lineages, including some of the same 
+individuals, were used to document parthenogenetic reproduction (Hardy and Cole, 1981) and 
+clonal inheritance (Dessauer and Cole, 1986) in unisexual whiptail lizards, so we know that 
+these phenomena pertain to these specimens. We also studied variation in a population sample 
+of A. exsanguis from the same locality in nature where the P1 females were obtained, comparing 
+this with variation in the two laboratory lineages pooled (assuming that there are pooled lin-
+eages in the field sample) and with variation in a bisexual species, Aspidoscelis inornata from 
+a nearby locality, as this is one of the bisexual ancestors of A. exsanguis. Finally, we compared 
+variation in only the field samples of A. exsanguis and A. inornata and briefly discuss possible 
+morphological effects of the laboratory environment, although none was found.
+
+MATERIALS AND METHODS
+Morphological Characters
+
+The  characters  analyzed  with  multivariate  statistics  are  discrete  counts  of  epidermal 
+scales and pores in the skin. The characters and their abbreviations are described in appendix 
+1, along with snout-vent length. Additional characters are described in the text where they 
+are discussed.
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+3
+
+Specimens Examined
+
+All specimens are at the American Museum of Natural History (AMNH), and they are listed 
+in appendix 2. As all the specimens of A. exsanguis are females, we examined only females of A. 
+inornata also, although these characters are not known to be sexually dimorphic in these lizards.
+
+Laboratory Maintenance of Reproducing Lizards
+
+Lizards in laboratory colonies were maintained at the AMNH as described by Townsend 
+(1979) and Townsend and Cole (1985). Following oviposition, eggs were removed from the 
+cage and allowed to develop at room temperature.
+
+Statistics
+
+Statistical procedures and tests were performed with SPSS© and NCSS© software. We used 
+a modified Levene test (recommended by Conover et al. [1981] and available in NCSS©) to 
+check for significant pairwise differences in sample variances. For sample pairs with heteroge-
+neous variances, we used relative size of standard deviations to identify the sample with sig-
+nificantly greater variation. Depending on number of samples compared, we used either t-tests 
+or one-way ANOVAs to test for significant differences in character means. If significant differ-
+ences were indicated by ANOVAs, the specifically different samples were identified with Tukey 
+multiple-comparison tests.
+
+All specimens were scored for 10 univariate meristic characters (appendix 1), and speci-
+mens with complete data for the 10 characters formed the base data for the multivariate com-
+parisons. For each comparison, the subgroup of original samples used was treated as a single 
+sample in a principal components analysis (PCA), and meristic variation for that subgroup was 
+captured in the 10 principal components derived from that analysis. Because all characters were 
+recorded on the same scale (discrete counts of epidermal scales and femoral pores), we used 
+the variance/covariance matrix to obtain the coefficients used to compute component scores. 
+A variance/covariance matrix retains the relative variances of the original characters, so that 
+characters with larger variances are given greater weight in developing the principal compo-
+nents (Neff and Marcus, 1980).
+
+Following Jombart et al. (2010), we used either a discriminate function analysis (DFA) or 
+a canonical variate analysis (CVA) of the principal components (as new variables) to determine 
+similarities and significant differences among the original samples included in the comparisons. 
+Principal components were included stepwise in a DFA or CVA model if F-to-enter probabili-
+ties were < 0.05 and did not exceed 0.10 when other components were included. 
+
+For each comparison, we checked each sample (a priori group) for multivariate outliers by 
+evaluating D2 distances (based on the original a priori groups) from each specimen to the 
+centroid of the remaining cases in that group (provided as output by SPSS). Specimens with 
+D2 values exceeding a critical chi-square value at P = 0.001 and degrees of freedom defined by 
+the number of principal components included in the CVA model would be identified as outliers 
+and removed from the definitive analyses (Tabachnick and Fidell, 2013). However, there were 
+no multivariate outliers identified in the multivariate comparisons of this study.
+
+4 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+TABLE 1. Descriptive statistics for samples of two laboratory lineages of clonal Aspidoscelis exsanguis and 
+scores for their two P1 individuals from nature. For each character, first row: mean ± 1 SE (samples sharing 
+the same capital letter in a row are not significantly different at α = 0.05); second row: standard deviation 
+(samples with different lower case letters in a row have significantly different variances for that character); 
+third row: range and (sample size). Characters are described in appendix 1. Sample details are provided in 
+appendix 2. For characters with (u), sample size was maximized by using the count from the right side of 
+the body, except on individuals where that was not available, the left side was used.
+
+Character
+
+Lineages
+
+AMNH 109468
+
+P1 109468
+
+P1 113352
+
+AMNH 113352
+
+PC1
+
+PC6
+
+DF1
+
+GAB
+
+PSC
+
+GUL
+
+TBS
+
+LSG(u)
+
+SDL-F(u)
+
+SDL-T(u)
+
+FP(u)
+
+COS(u)
+
+SPV
+
+-0.5 ± 0.11  A 
+0.56  a
+-1.3 to 0.6 (28)
+0.2 ± 0.20  A
+1.04  a
+-2.0 to 2.7 (28)
+-0.8 ± 0.14  A
+0.76  a
+-2.3 to 0.9 (28)
+68.7 ± 0.35  A
+2.37  a
+65–74 (46)
+15.4 ± 0.34  A
+2.18  a
+11–22 (41)
+16.7 ± 0.27  A
+1.70  a
+14–20 (39)
+19.6 ± 0.25  A
+1.68  a
+17–24 (46)
+15.3 ± 0.30  A
+2.02  a
+11–22 (45)
+13.6 ± 0.16  A
+1.07  a
+12–16 (46)
+29.5 ± 0.21  A
+1.32  a
+27–34 (41)
+16.8 ± 0.14  A
+0.92  a
+15–19 (46)
+4.5 ± 0.12  A
+0.78  a
+3–6 (46)
+5.4 ± 0.10  A
+0.69  a
+3–7 (46)
+
+---
+
+---
+
+---
+
+69
+
+18
+
+22
+
+25
+
+13
+
+15
+
+30
+
+17
+
+4
+
+6
+
+---
+
+---
+
+---
+
+76
+
+---
+
+21
+
+21
+
+13
+
+15
+
+30
+
+18
+
+4
+
+5
+
+1.0 ± 0.26  B
+0.96  b
+-0.9 to 2.5 (14)
+-0.4 ± 0.22  A
+0.82  a
+-1.5 to 1.0 (14)
+1.6 ± 0.37  B
+1.37  b
+-0.8 to 3.5 (14)
+74.8 ± 1.03  B
+4.12  b
+66–82 (16)
+14.9 ± 0.44  A
+1.77  a
+13–19 (16)
+17.3 ± 0.40  A
+1.58  a
+15–21 (16)
+19.1 ± 0.46  A
+1.84  a
+16–22 (16)
+16.1 ± 0.38  A
+1.50  a
+14–19 (16)
+13.4 ± 0.20  A
+0.81  a
+12–15 (16)
+28.7 ± 0.22  A
+0.82  a
+27–30 (14)
+16.5 ± 0.22  A
+0.89  a
+15–18 (16)
+4.0± 0.16  B
+0.63  b
+3–5 (16)
+5.8 ± 0.14  A
+0.58  a
+5–7 (16)
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+5
+
+TABLE 2. Correlations between characters and either principal components (PCs) or discriminant function 
+1 (DF1) from multivariate analyses of two laboratory lineages of clonal Aspidoscelis exsanguis. Univariate 
+characters are described in appendix 1, and sample details are provided in appendix 2. Principal compo-
+nents are those selected by the DFA model as having discrimination value.
+
+Principal components
+analysis
+
+Eigenvalues
+Proportion of variation
+
+Discriminant  
+function analysis
+
+Eigenvalue
+Proportion of intergroup  
+variation
+
+Characters
+
+GAB
+PSC
+GUL
+TBS
+LSG(u)
+SDL-F(u)
+SDL-T(u)
+FP(u)
+COS(u)
+SPV
+
+Characters
+
+PC1
+PC6
+ 
+
+PC1
+
+PC6
+
+0.008
+0.246
+-0.211
+-0.244
+0.127
+0.208
+0.696
+0.673
+0.001
+-0.053
+
+1.851
+4.9%
+
+0.992
+-0.346
+0.170
+-0.269
+0.487
+0.273
+-0.094
+-0.073
+0.018
+0.396
+
+21.121
+55.5%
+
+DF1
+
+0.851
+-0.253
+
+1.357
+100%
+
+RESULTS AND DISCUSSION
+
+Statistical Comparisons of Two Cloned Lineages
+
+Here  we  address  three  related  questions:  (1)  are  the  two  field-collected  P1 females 
+alike in quantitative expressions of morphological characters; (2) do all specimens in a 
+cloned lineage resemble each other and the founder of the lineage in scores of the mor-
+phological characters; and (3) are there significant differences in morphological charac-
+ters  and  the  extent  of  their  variation  between  two  laboratory  lineages  cloned  from  the 
+same natural population?
+
+Note that the two P1 females were similar or identical in most characters except GAB 
+and TBS (table 1) and there was a range of data for all characters, not consistent uniformity. 
+In some characters (GUL, TBS, LSG(u)), a P1 female had scores that were outside the range 
+
+6 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+TABLE 3. Classification of specimens in two laboratory lineages of clonal Aspidoscelis exsanguis by discrim-
+inant function analysis. A priori groups are in columns, and rows show number of individuals assigned to 
+each group by the discriminant function model (table 2). Overall classification success was 88.1% for origi-
+nal grouped specimens and 85.7% for jackknifed specimens. Lineages are described in appendix 2.
+
+Jackknifed classification
+Lineage AMNH 109468
+Lineage AMNH 113352
+
+Original grouped specimens
+Lineage AMNH 109468
+Lineage AMNH 113352
+
+N
+28
+14
+
+N
+28
+14
+
+Lineage AMNH 109468
+25 (89.3%)
+3 (21.4%)
+
+Lineage AMNH 109468
+26 (92.9%)
+3 (21.4%)
+
+Lineage AMNH 113352
+3 (10.7%)
+11 (78.6%)
+
+Lineage AMNH 113352
+2 (7.1%)
+11 (78.6%)
+
+of variation observed in her cloned derivatives (table 1). For univariate comparisons, the 
+lineage from AMNH R-109468 included 39–46 specimens and that from AMNH R-113352 
+included 14–16 (table 1), depending on the number of characters that could not be scored 
+owing to physical damage. The lineages differed significantly in two of the 10 meristic char-
+acters (GAB and COS(u); table 1), but not in TBS. Considering the differences between the 
+P1 females in GAB (table 1), these two lineages may represent two different clones from the 
+natural population.
+
+Aspidoscelis neavesi is the only other clonal whiptail for which data can be compared for 
+individuals of two different laboratory lineages, and the same characters were studied for those 
+lizards (Cole et al., 2014: 10, table 2). Interestingly, the maternal parent for A. neavesi was an 
+A. exsanguis, and the observed range for all characters studied in A. neavesi was similar to that 
+of the A. exsanguis reported here also. The two lineages of A. neavesi differed significantly in 
+two characters, SPV and FP, although the actual differences were small (Cole et al., 2014). 
+Nevertheless, the founders of those lineages were females from different F1 hybrid zygotes of 
+A. exsanguis × A. inornata (Lutes et al., 2011).
+
+We included all 10 univariate characters in a PCA to initiate multivariate comparisons 
+(table 2). Samples for PCA and DFA were reduced to 28 specimens of the AMNH R-109468 
+lineage and 14 of the AMNH R-113352 lineage because 20 individuals had damage to at least 
+one character. We used the 10 principal components, generated in the PCA, as potential can-
+didate variables for DFA of the two lineages. Two of the 10 principal components (PC1 and 
+PC6) were selected by the stepwise selection criteria (Materials and Methods) for inclusion in 
+the DFA model (table 2). 
+
+The two lineages differed significantly in PC1 and discriminant function 1 (DF1; table 1), 
+and the Wilks’ lambda value of 0.424 (P <0.0001) suggested that differences between the two 
+lineages were responsible for approximately 58% of the variation. This variation was sufficient 
+to classify more than 85% of the specimens to the correct a priori group (table 3). In relative 
+variation, as depicted by standard deviations, lineage AMNH R-113352 was significantly more 
+variable than lineage AMNH R-109468 in GAB, PC1, and DF1, and lineage AMNH R-109468 
+was more variable in COS (table 1).
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+7
+
+TABLE 4. Descriptive statistics for field samples of clonal A. exsanguis and bisexual A. inornata and a 
+pooled sample of two laboratory lineages of clonal Aspidoscelis exsanguis. For each character, first row: 
+mean ± 1 SE (samples sharing the same capital letter in a row are not significantly different at α = 0.05); 
+second row: standard deviation (for each row, samples sharing the same lower case letter do not differ sig-
+nificantly in variance); third row: range and (sample size). Characters are described in appendix 1. Sample 
+details are provided in appendix 2. For characters with (u), sample size was maximized by using the count 
+from the right side of the body, except on individuals where that was not available, the left side was used.
+
+Character
+
+PC1
+
+PC2
+
+CV1
+
+CV2
+
+GAB
+
+LSG(u)
+
+SPV
+
+TBS
+
+GUL
+
+PSC
+
+SDL-T(u)
+
+SDL-F(u)
+
+FP(u)
+
+COS(u)
+
+Field A. exsanguis
+0.3 ± 0.09  A
+0.33  a
+-0.2 to 0.8 (13)
+0.1 ± 0.18  AB
+0.65  a
+-0.7 to 1.2 (13)
+1.5 ± 0.22  A
+0.79  a
+0.2 to 2.7 (13)
+0.7 ± 0.31  A
+1.12  a
+-0.9 to 2.3 (13)
+70.0 ± 0.58  A
+2.55  a
+65–76 (19)
+14.7 ± 0.35  A
+1.49  a
+12–17 (18)
+5.6 ± 0.14  A
+0.60  a
+4–6 (19)
+19.0 ± 0.63  A
+2.73  a
+15–25 (19)
+17.7 ± 0.44  A
+1.87  a
+15–22 (18)
+15.7 ± 0.35  A
+1.33  a
+14–18 (14)
+29.8 ± 0.24  A
+1.03  a
+28–32 (19)
+14.4 ± 0.20  A
+0.90  a
+13–16 (19)
+17.1 ± 0.19  A
+0.81  a
+16–18 (19)
+4.7 ± 0.14  A
+0.58  a
+4–6 (18)
+
+Sample
+
+Lab A. exsanguis
+0.5 ± 0.11  A
+0.71  b
+-0.4 to 2.4 (42)
+0.2 ± 0.15  B
+0.98  a
+-1.6 to 2.1 (42)
+2.1 ± 0.15  A
+0.95  a
+0.0 to 3.6 (42)
+-0.2 ± 0.16  B
+1.0  a
+-1.9 to 3.0 (42)
+70.3 ± 0.50  A
+3.94  a
+65–82 (62)
+15.5 ± 0.25  A
+1.92  a
+11–22 (61)
+5.5 ± 0.08  A
+0.67  ab
+3–7 (62)
+19.4 ± 0.22  A
+1.72  b
+16–24 (62)
+16.9 ± 0.23  A
+1.67  a
+14–21 (55)
+15.2 ± 0.27  A
+2.06  a
+11–22 (57)
+29.3 ± 0.17  A
+1.26  a
+27–34 (55)
+13.5 ± 0.13  B
+1.00  a
+12–16 (62)
+16.7 ± 0.12  A
+0.92  a
+15–19 (62)
+4.4 ± 0.10  A
+0.77  a
+3–6 (62)
+
+Field A. inornata
+-1.3 ± 0.14  B
+0.60  ab
+-2.5 to -0.6 (19)
+-0.6 ± 0.24  A
+1.04  a
+-2.2 to 1.8 (19)
+-5.6 ± 0.28  B
+1.22  a
+-8.7 to -3.8 (19)
+0.0 ± 0.20 AB
+0.88  a
+-1.5 to 1.7 (19)
+61.4 ± 0.70  B
+3.59  a
+55–68 (26)
+11.2 ± 0.58  B
+2.86  a
+7–20 (24)
+9.8 ± 0.22  B
+1.12  b
+8–12 (26)
+16.9 ± 0.37  B
+1.88  ab
+13–20 (26)
+17.2 ± 0.39  A
+1.85  a
+15–23 (22)
+15.7 ± 0.37  A
+1.68  a
+11–18 (21)
+27.9 ± 0.26  B
+1.34  a
+25–30 (26)
+14.3 ± 0.19  A
+0.94  a
+13–16 (25)
+15.3 ± 0.25  B
+1.28  a
+13–18 (26)
+4.3 ± 0.19  A
+0.94  a
+3–6 (25)
+
+8 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+FIGURE 1. Scatterplots from multivariate statistical analyses. Ellipses define the 95% confidence limits of score 
+distributions. A. Principal component scores of 14 field A. exsanguis, 42 laboratory A. exsanguis of two lin-
+eages pooled, and 19 field A. inornata. Axis percentages reflect variance explained by PC1 and PC2 (table 5). 
+B. Canonical variate scores of the same specimens as in A. Axis percentages are relative contributions of CV1 
+and CV2 to the discrimination (table 5).
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+9
+
+Comparisons of Unisexual A. exsanguis, Bisexual A. inornata, and 
+
+Two Lineages of A. exsanguis
+
+In univariate and multivariate statistical comparisons of field samples of unisexual A. 
+exsanguis, bisexual A. inornata, and a pooled sample of two laboratory lineages of A. exsan-
+guis, we address three related questions: (1) does the field sample of clonal A. exsanguis differ 
+from the sample of pooled laboratory lineages of this species; (2) is the field sample of A. 
+exsanguis less variable than the field sample of A. inornata; and (3) is the pooled sample of 
+the two laboratory lineages of A. exsanguis less variable than either or both the field samples 
+of A. exsanguis and A. inornata? For these comparisons, we pooled the data for the two labo-
+ratory lineages of A. exsanguis because the field sample of this species must have included 
+more than one lineage.
+
+In univariate comparisons of 10 meristic characters, the only difference between the sample 
+of field A. exsanguis and the pooled clones of laboratory A. exsanguis was in SDL-F(u), although 
+this character did not differ between the field samples of A. exsanguis and A. inornata (table 
+4). There were significant differences in the means of seven of the 10 univariate characters 
+among the three samples and there was a considerable range of variation for each character in 
+each sample. Six of the significant differences were interspecific.
+
+Thirty-three specimens had one or more damaged characters, thereby precluding use of 
+those individuals in the multivariate analyses. We used all 10 univariate characters in the PCA 
+model, and seven of the 10 principal components generated were selected by stepwise selection 
+criteria as having value in discriminating the three a priori groups (table 5). Field-caught and 
+laboratory A. exsanguis both differed significantly from field A. inornata (but not from each 
+other) in PC1 and CV1, laboratory A. exsanguis differed significantly from field A. inornata 
+but not field A. exsanguis in PC2, and laboratory A. exsanguis differed significantly from field 
+A. exsanguis but not field A. inornata in CV2 (table 4). These results are visually depicted in 
+figure 1. A Wilks’ lambda value of 0.071 for the combination of CV1 + CV2 in the CVA model 
+(table  5)  suggested  that  differences  among  the  three  a  priori  groups  were  responsible  for 
+approximately 93% of the variation. Classification success of specimens from the original a 
+priori groups was 78.4%. All 19 specimens of A. inornata were classified correctly, but 7 of the 
+13 specimens of field A. exsanguis were classified to laboratory A.  exsanguis, and 12 of 42 
+specimens of laboratory A. exsanguis were classified to field A. exsanguis.
+
+In variation of univariate characters, significant differences among the three samples were 
+found with SPV and TBS (table 4). For SPV, field A. inornata was more variable than field A. 
+exsanguis (P = 0.02) but not laboratory A. exsanguis. For TBS, field A. exsanguis was more 
+variable than laboratory A. exsanguis (P = 0.001) but the variation in A. inornata was not dif-
+ferent from either sample of A. exsanguis. For multivariate characters, laboratory A. exsanguis 
+expressed greater variation than field A. exsanguis for PC1 (P = 0.02) but was similar to A. 
+inornata (table 4; fig. 1). The same relative degree of variability was expressed by all three 
+groups for PC2, CV1, and CV2 (table 4; fig. 1); i.e., the sexual A. inornata was not more vari-
+able than the clonal A. exsanguis in these characters.
+
+10 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+TABLE 5. Correlations between characters and either principal components (PC) or canonical variates (CV) 
+of field samples of A. exsanguis and A. inornata and a pooled sample of two laboratory lineages of clonal Aspi-
+doscelis exsanguis. Univariate characters are described in appendix 1, and sample details are provided in 
+appendix 2. Principal components are those selected by the CVA model as having discrimination value.
+
+Characters
+
+GAB
+LSG(u)
+SPV
+TBS
+GUL
+PSC
+SDL-T(u)
+SDL-F(u)
+FP(u)
+COS(u)
+
+PC1
+
+PC2
+
+PC3
+
+PC4
+
+PC5
+
+PC6
+
+PC7
+
+0.979
+0.698
+-0.647
+0.350
+-0.054
+-0.226
+0.408
+-0.107
+0.498
+0.128
+
+34.566
+59.8%
+
+-0.198
+0.484
+-0.501
+0.527
+-0.220
+-0.245
+0.260
+-0.203
+0.240
+0.027
+
+6.064
+10.5%
+
+0.036
+-0.431
+-0.123
+0.699
+0.038
+0.540
+0.039
+-0.225
+0.136
+0.055
+
+5.261
+9.1%
+
+-0.031
+0.171
+-0.146
+-0.069
+0.874
+0.381
+0.109
+0.280
+0.119
+0.145
+
+3.555
+6.2%
+
+-0.015
+0.048
+-0.229
+-0.292
+-0.402
+0.579
+0.321
+-0.146
+0.292
+0.042
+
+2.746
+4.8%
+
+-0.006
+-0.232
+-0.271
+-0.094
+0.090
+-0.328
+0.592
+0.277
+0.297
+0.259
+
+2.121
+3.7%
+
+0.001
+0.085
+0.360
+0.114
+-0.091
+0.088
+0.461
+0.607
+-0.094
+0.222
+
+1.555
+2.7%
+
+CV1
+
+CV2
+
+Characters
+
+PC1 
+PC2
+PC3 
+PC4
+PC5 
+PC6 
+PC7 
+
+0.370
+0.111
+0.048
+0.038
+0.065
+0.043
+-0.087
+
+11.449
+98.9%
+
+-0.119
+-0.050
+-0.038
+0.629
+0.179
+0.579
+0.424
+
+0.126
+1.1%
+
+Principal  
+components
+analysis
+
+Eigenvalues
+Proportion  
+of variation
+ 
+Canonical  
+variate 
+analysis
+
+Eigenvalue
+Proportion of  
+intergroup 
+variation
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+11
+
+TABLE 6. Descriptive statistics for field samples of clonal Aspidoscelis exsanguis and bisexual A. inornata. 
+For each character, first row: mean ± 1 SE (samples sharing the same capital letter in a row are not signifi-
+cantly different at α = 0.05); second row: standard deviation (samples with different lower case letters in a 
+row have significantly different variances for that character); third row: range and (sample size). Characters 
+are described in appendix 1. Sample details are provided in appendix 2. For characters with (u), sample size 
+was maximized by using the count from the right side of the body, except on individuals where that was 
+not available, the left side was used.
+
+Character
+
+Species
+
+PC1
+
+PC2
+
+DF1
+
+GAB
+
+SPV
+
+FP(u)
+
+LSG(u)
+
+SDL-T(u)
+
+TBS
+
+GUL
+
+PSC
+
+SDL-F(u)
+
+COS(u)
+
+A. exsanguis
+1.0 ± 0.09  A
+0.34  a
+0.5 to 1.5 (13)
+-0.1 ± 0.21  A
+0.75  a
+-1.1 to 1.8 (13)
+4.2 ± 0.23  A
+0.83  a
+2.8 to 5.2 (13)
+70.0 ± 0.58  A
+2.55  a
+65–76 (19)
+5.6 ± 0.14  A
+0.60  a
+4–6 (19)
+17.1 ± 0.19  A
+0.81  a
+16–18 (19)
+14.7 ± 0.35  A
+1.49  a
+12–17 (18)
+29.8 ± 0.24  A
+1.03  a
+28–32 (19)
+19.0 ± 0.63  A
+2.73  a
+15–25 (19)
+17.7 ± 0.44  A
+1.87  a
+15–22 (18)
+15.7 ± 0.35  A
+1.33  a
+14–18 (14)
+14.4 ± 0.20  A
+0.90  a
+13–16 (19)
+4.7 ± 0.14  A
+0.58  a
+4–6 (18)
+
+A. inornata
+-0.7 ± 0.14  B
+0.60  a
+-1.9 to 0.2 (19)
+0.1 ± 0.26  A
+1.16  a
+-2.0 to 2.6 (19)
+-2.9 ± 0.25  B
+1.10  a
+-5.1 to -0.3 (19)
+61.4 ± 0.70  B
+3.59  a
+55–68 (26)
+9.8 ± 0.22  B
+1.12  b
+8–12 (26)
+15.3 ± 0.25  B
+1.28  a
+13–18 (26)
+11.2 ± 0.58  B
+2.86  a
+7–20 (24)
+27.9 ± 0.26  B
+1.34  a
+25–30 (26)
+16.9 ± 0.37  B
+1.88  a
+13–20 (26)
+17.2 ± 0.39  A
+1.85  a
+15–23 (22)
+15.7 ± 0.37  A
+1.68  a
+11–18 (21)
+14.3 ± 0.19  A
+0.94  a
+13–16 (25)
+4.3 ± 0.19  A
+0.94  a
+3–6 (25)
+
+12 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+Comparisons of Field Samples of A. exsanguis and A. inornata
+
+Is  it  possible  that  aspects  of  the  laboratory  environment  (e.g.,  temperature  during  egg 
+incubation) have biased variation of morphological characters in the specimens of the labora-
+tory lineages? As a check on this possibility, we repeated the comparisons here but included 
+only the specimens obtained in the field (although we realize that differing environmental 
+factors at the two localities might have affected development of the characters).
+
+The field samples of A. exsanguis and A. inornata differed significantly in 6 of 10 univariate 
+meristic characters (table 6), but we included all 10 characters in a PCA to obtain principal 
+components to use as characters in a discriminate function analysis (table 7). Samples included 
+in the PCA and DFA were reduced to 13 specimens of A. exsanguis and 19 of A. inornata 
+because 13 individuals had damage to one or more characters. Six of the 10 principal compo-
+nents were selected by stepwise selection criteria (Materials and Methods) for inclusion in the 
+DFA to discriminate the two samples (table 7). 
+
+The two species differed significantly in principal component 1 (PC1) and discriminant func-
+tion 1 (DF1; table 6), and a Wilks’ lambda value of 0.073 (P < 0.0001) suggested that interspecific 
+differences were responsible for approximately 93% of the variation. There were no misclassifica-
+tions among the 32 specimens. Only one character, SPV, had a significant interspecific difference 
+in variance, with A. inornata being more variable than A. exsanguis (table 6).
+
+Variation in Additional Characters
+
+Our focus above has been on scalation characters that normally vary in Aspidoscelis, both 
+from individual to individual within species and often with different ranges of variation from 
+species to species and character to character. There are also scalation characters that are essen-
+tially  invariant  within  groups  of  closely  related  species,  so  much  so  that  they  characterize 
+members of species groups and genera of teiids. For example, all species of the sexlineata spe-
+cies group of Aspidoscelis, which includes both A. exsanguis and A. inornata, normally have 2 
+frontoparietal scales, 3 parietal scales, and 4 supraocular scales (each side) on the head (Lowe 
+et al., 1970), and all species of the genus Aspidoscelis normally have 8 rows of large ventral 
+scutes across midbody (Reeder et al., 2002). At higher levels of taxonomy, there are many scale 
+characters that are taxonomically useful because they are essentially invariant within families 
+but different from family to family. Consequently, it appears as if development of certain scale 
+characters is canalized, while many are not, and we know nothing about the evolutionary sig-
+nificance of this. The following observations pertain to four characters that usually are thought 
+of as essentially invariant.
+
+Postantebrachial Scales on Forearm: the typical condition in A. exsanguis is for these 
+scales (Duellman and Zweifel, 1962) to be enlarged and angular in shape, and this was the 
+condition in all specimens examined, including 46 of the AMNH R-109468 lineage, 16 of the 
+AMNH R-113352 lineage, and 19 of the field sample. The typical condition in A. inornata is 
+for these scales to be smaller although somewhat enlarged, and this was the condition in all 
+specimens examined, including 26 of the field sample.
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+13
+
+TABLE 7. Correlations between characters and either principal components (PC) or discriminant func-
+tion 1 (DF1) from multivariate analyses of field samples of clonal Aspidoscelis exsanguis and gonochoris-
+tic A. inornata. Univariate characters are described in appendix 1, and sample details for these analyses 
+are provided in appendix 2. Principal components are those selected as having discrimination value by 
+the DFA model.
+
+Characters
+
+GAB
+SPV
+FP(u)
+LSG(u)
+SDL-T(u)
+TBS
+GUL
+PSC
+SDL-F(u)
+COS(u)
+
+Characters
+
+PC1
+PC3
+PC4
+PC5
+PC6
+PC7
+
+Principal  
+components
+analysis
+
+Eigenvalues
+Proportion of  
+variation
+
+Discriminant  
+function  
+analysis
+
+Eigenvalue
+Proportion  
+of intergroup  
+variation
+
+PC1
+
+PC3
+
+PC4
+
+PC5
+
+PC6
+
+PC7
+
+-0.183
+-0.225
+0.052
+0.207
+-0.063
+0.696
+0.607
+-0.177
+-0.112
+-0.065
+
+6.233
+11.0%
+
+0.0
+-0.213
+0.166
+-0.109
+0.286
+-0.287
+0.705
+0.310
+0.281
+0.093
+
+3.283
+5.8%
+
+0.080
+0.527
+-0.049
+0.069
+-0.174
+-0.030
+0.345
+-0.305
+0.122
+-0.149
+
+2.294
+4.0%
+
+-0.025
+0.235
+-0.146
+0.153
+0.195
+0.080
+-0.070
+0.674
+0.418
+0.259
+
+2.023
+3.6%
+
+-0.003
+0.004
+0.498
+0.062
+-0.459
+-0.046
+0.019
+0.254
+-0.320
+0.036
+.
+
+1.290
+2.3%
+
+0.965
+-0.723
+0.702
+0.654
+0.709
+0.427
+0.032
+-0.023
+0.011
+0.391
+
+31.944
+56.3%
+
+DF1
+
+0.482
+0.035
+0.046
+-0.092
+-0.044
+0.037
+
+12.723
+100%
+
+14 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+TABLE 8. Condition of enlarged ventral preanal scales in samples of two laboratory lineages of clonal Aspi-
+doscelis exsanguis and a field sample each of A. exsanguis and gonochoristic A. inornata. Both P1 field 
+females had Type I.
+
+Condition
+Type I
+Type II
+Type III
+
+Lineage of R-109468
+24 (52%)
+  1 (2%)
+21 (46%)
+
+Lineage of R-113352
+11 (69%)
+  0 (0%)
+  5 (31%)
+
+Field A. exsanguis
+12 (63%)
+  0 (0%)
+  7 (37%)
+
+Field A. inornata
+16 (62%)
+  4 (15%)
+  6 (23%)
+
+Mesoptychial Scales Across Throat: These scales are on the anterior edge of the 
+posterior gular fold on the throat. The typical condition in A. exsanguis is for these scales 
+to be abruptly larger than the scales in the fold, rather large, and angular in shape, and 
+this was the condition in all specimens examined, including 46 of the AMNH R-109468 
+lineage, 16 of the AMNH R-113352 lineage, and 19 of the field sample. The typical condi-
+tion  in A.  inornata  is  for  these  scales  to  be  somewhat  enlarged  and  slightly  angular  in 
+shape as compared to A. exsanguis, and this was the condition in all specimens examined, 
+including 26 of the field sample.
+
+Enlarged Ventral Scutes across Belly: On each specimen examined, these scales 
+were counted in several places posterior to midbody. As is typical for the genus, nearly every 
+specimen of A. exsanguis consistently had 8, including 44 of the AMNH R-109468 lineage, 16 
+of the AMNH R-113352 lineage, and 19 of the field sample. For one specimen of the R-109468 
+lineage (AMNH R-134888) the number of rows was reduced to 7 posterior to midbody, and 
+for another individual the character could not be scored. Also, for 8 specimens (50%) in the 
+R-113352 lineage, there were additional atypical enlarged ventrolateral scales beside the later-
+almost ventral scute. For A. inornata, all 26 specimens in the field sample consistently had 8 
+rows, but AMNH R-131062 had additional atypical enlarged ventrolateral scales beside the 
+lateralmost ventral scute.
+
+Enlarged Ventral Preanal Scales: These scales were recorded as occurring in one of 
+three conditions. In Type I there are 3 enlarged scales, 2 bordering the vent and 1 anterior to 
+these. In Type II there are 2 enlarged scales, 1 bordering the vent and 1 anterior to it. Most speci-
+mens of Aspidoscelis have one or the other of these conditions. However, specimens with a dif-
+ferent pattern of preanal scalation were scored in a catchall alternative called Type III. There was 
+considerable variation in this character (table 8), although more than 50% of the four samples 
+(the two laboratory lineages and two field samples) had Type I, but more than 20% of each sample 
+had Type III. Type II was more common in A. inornata than A. exsanguis.
+
+Did the Laboratory Environment Affect Morphological Characters?
+
+It has been documented for various species of reptiles that environmental factors can affect 
+the development of certain morphological characters, including some scale counts and certain 
+important features such as sex determination (e.g., Fox, 1948; Osgood, 1978; Bull and Vogt, 
+1979; and Andrews et al., 2000). Consequently, we considered whether the laboratory environ-
+ment affected development of some of the characters studied.
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+15
+
+TABLE 9. Egg clutch and hatchling statistics for samples of two lineages of Aspidoscelis exsanguis. For each 
+character, first row: mean ± 1 SE (samples sharing the same capital letter in a row are not significantly dif-
+ferent at α = 0.05); second row: standard deviation (samples with different lower case letters in a row have 
+significantly different variances for that character); third row: range and (sample size).Characters are 
+described in the text; sample details are provided in appendix 2.
+
+Character
+
+Egg weight  
+at laying
+
+Number of  
+days to  
+hatching
+
+Weight at  
+hatching 
+
+SVL at  
+hatching
+
+AMNH 109468
+0.78 ± 0.02  A
+0.09  a
+0.7 to 1.0 (33)
+
+70.3 ± 1.07  A
+7.23 a
+58–84 (46)
+
+0.83 ± 0.02  A
+0.11  a
+0.6–1.0 (43)
+
+32.7 ± 0.21  A
+1.35  a
+30–35 (43)
+
+Lineage
+
+AMNH 113352
+0.66 ± 0.03  B
+0.09  a
+0.6 to 0.8 (8)
+
+74.6 ± 2.19  A
+8.75  a
+62–82 (16)
+
+0.77 ± 0.03  A
+0.14  a
+0.6–1.1 (16)
+
+30.8 ± 0.50  B
+2.01  a
+28–35 (16)
+
+When a clutch was laid, we weighed it and divided by the number of eggs to estimate the 
+weight of one egg in that clutch. Because eggs were incubated at room temperature, which 
+varied, we recorded the number of days to hatching as a proxy for temperature. Finally, upon 
+hatching, we recorded the weight and SVL of the hatchlings (table 9). Because GAB was the 
+scale character with the widest range of variation, we compared that character with these life 
+history variables. We used specimens having complete data for both lineages (AMNH R-109468 
+lineage N = 30; AMNH R-113352 lineage N = 8) in multiple regression analyses and regression 
+of GAB on number of days to hatching, using data for the two lineages both separated and 
+pooled (to increase sample size). No clear relationships were found.
+
+SUMMARY AND CONCLUSIONS
+
+For the characters we examined, there is no general pattern that shows clonal A. exsan-
+guis as less variable than bisexual A. inornata. All meristic characters had a range of varia-
+tion  in  the  two  laboratory  lineages  compared,  not  a  fixed  condition  from  individual  to 
+individual (table 1).
+
+The two lineages of A. exsanguis cloned in the laboratory from field females collected at 
+the same locality differed in 2 out of 10 meristic characters (GAB and COS(u); table 1). This 
+is consistent with the theory that a population sample of a parthenogenetic species can consist 
+of more than one clone, although we do not know whether the cause of these meristic differ-
+ences is based on differences in DNA. This is consistent also with two laboratory clones of A. 
+neavesi differing in 2 out of the same 10 characters (SPV and FP; Cole et al., 2014), and the 
+
+16 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+clutches of A. neavesi were also all incubated at one temperature (28° C), in this case at the 
+Stowers Institute for Medical Research (D.P. Baumann, personal commun.). In general, the 
+standard errors of the univariate variation of the 10 characters were similar in the A. exsanguis 
+reported here and the A. neavesi reported by Cole et al. (2014), except that the standard errors 
+were  clearly  higher  in  GAB,  SDL-F(u),  GUL,  and  PSC  in  the  lineage  of  AMNH  R-113352 
+reported here, which is the smallest sample.
+
+Comparing standard deviations, the lineage of AMNH R-113352 was more variable than 
+the lineage of AMNH R-109468 in GAB, PC1, and DF1, but the lineage of AMNH R-109468 
+was more variable in COS(u).
+
+In univariate comparisons of 10 meristic characters of the field A. exsanguis versus the two 
+laboratory lineages of A. exsanguis pooled, the only significant difference was in SDL-F(u) 
+(table 4), but this character did not differ between the field A. exsanguis and A. inornata. Inter-
+estingly, this character did not differ between the two lineages (table 1) and the two characters 
+that did differ between the lineages (GAB and COS) were not significantly different in this 
+comparison (table 4). In multivariate characters, PC1 and CV1 of the field and laboratory A. 
+exsanguis differed from A. inornata but not from each other; PC2 of laboratory A. exsanguis 
+differed from A. inornata but not from field A. exsanguis; and CV2 differed between the field 
+versus pooled laboratory lineages of A. exsanguis (table 4), but neither sample of A. exsanguis 
+differed from A. inornata in this character. It appears as if samples of parthenogens collected 
+in the field may be pooled samples of different clones, for which the distinctions may be con-
+cealed within the overall sample.
+
+Clonal laboratory A. exsanguis was not less variable than bisexual A. inornata in any of the 
+10 univariate characters (table 4). In univariate comparisons, only SPV and TBS showed signifi-
+cant differences in variation. For TBS, field A. exsanguis was more variable than laboratory A. 
+exsanguis, but neither sample differed from A. inornata in variation in this character. For SPV, 
+bisexual A. inornata was more variable than the field A. exsanguis but not more so than the 
+sample of two pooled laboratory clones (table 4). In multivariate comparisons of variation among 
+these samples, the only difference was that the pooled lineages of cloned laboratory A. exsanguis 
+showed greater variation in PC1 than the field sample of this species, but the variability of A. 
+inornata was similar to both samples of A. exsanguis in this character. There were no differences 
+in variation between A. exsanguis and A. inornata in PC2, CV1, and CV2 (table 4). The absence 
+of differences in variability of the multivariate characters was also exhibited in comparing the 
+field samples of A. exsanguis versus field samples of A. inornata (compare tables 4 and 6). In 
+univariate comparisons of the field samples only, SPV was the only character that showed a dif-
+ference in variation, which was higher in A. inornata than in A. exsanguis (table 6).
+
+With respect to additional characters (e.g., number of enlarged ventral scutes across the belly), 
+it would be interesting to know why (canalization?) certain characters are essentially invariant from 
+individual to individual, whether members of the same lineage or not. Also, while many characters 
+vary, the range of observed variation appears to be constrained to some extent, and the amount of 
+the observed range also varies from character to character. In any event, we have no clear evidence 
+that the laboratory environment affected development of the characters we studied.
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+17
+
+ACKNOWLEDGMENTS
+
+Fieldwork in New Mexico was based at the Southwestern Research Station (SWRS, Portal, 
+AZ), with significant assistance from the director at that time, Wade C. Sherbrooke, and various 
+volunteer assistants, including Jeffrey A. Cole. William C. Miller, Jr., and his son, Chet, of 
+Rodeo and Post Office Canyon, Peloncillo Mountains, Hidalgo County, New Mexico, provided 
+important advice and kept our field vehicle in top condition throughout our fieldwork. Charlie 
+Painter and others in the New Mexico Department of Game and Fish provided the permits 
+necessary for this research.
+
+In the laboratory at the AMNH, Margaret G. Arnold, Colleen C. Coogan, Phil Damiani, 
+David Dickey, George W. Foley, Sarah Heady, Mary Ellen Holden, and José P.O. Rosado pro-
+vided important care for the animals in the lizard colony and curated the collections.
+
+We also thank Peter E. Baumann, Robert L. Bezy, and William B. Neaves for providing 
+thoughtful comments on an earlier version of the manuscript. This research was supported in 
+part by the National Science Foundation (grant BSR-8105454 to C.J.C.). When necessary, the 
+AMNH bridged the gap in funding, thanks largely to Michael J. Novacek.
+
+REFERENCES
+
+Andrews, R.M., T. Mathies, and D.A. Warner. 2000. Effect of incubation temperature on morphology, 
+
+growth, and survival of juvenile Sceloporus undulatus. Herpetological Monographs 14: 420–431.
+
+Bull, J.J., and R.C. Vogt. 1979. Temperature-dependent sex determination in turtles. Science 206: 1186–
+
+evidence. Journal of Heredity 77: 8–12.
+
+Dessauer, H.C., and C.J. Cole. 1989. Diversity between and within nominal forms of unisexual teiid 
+lizards. In R.M. Dawley and J.P. Bogart (editors), Evolution and ecology of unisexual vertebrates. 
+New York State Museum Bulletin 466: 49–71.
+
+Dessauer,  H.C.,  C.J.  Cole,  and  C.R.  Townsend.  2000.  Hybridization  among  western  whiptail  lizards 
+(Cnemidophorus tigris) in southwestern New Mexico: population genetics, morphology, and ecology 
+in three contact zones. Bulletin of the American Museum of Natural History 246: 1–148.
+
+1188.
+
+Cole, C.J., and H.C. Dessauer. 1993. Unisexual and bisexual whiptail lizards of the Cnemidophorus lem-
+niscatus complex (Squamata: Teiidae) of the Guiana Region, South America, with descriptions of 
+new species. American Museum Novitates 3081: 1–30.
+
+Cole, C.J., H.C. Dessauer, and G.F. Barrowclough. 1988. Hybrid origin of a unisexual species of whiptail 
+lizard, Cnemidophorus neomexicanus, in western North America: new evidence and a review. Amer-
+ican Museum Novitates 2905: 1–38.
+
+Cole, C.J., L.M. Hardy, H.C. Dessauer, H.L. Taylor, and C.R. Townsend. 2010. Laboratory hybridization among 
+North American whiptail lizards, including Aspidoscelis inornata arizonae × A. tigris marmorata (Squa-
+mata: Teiidae), ancestors of unisexual clones in nature. American Museum Novitates 3698: 1–43.
+
+Cole, C.J., H.L. Taylor, D.P. Baumann, and P. Baumann. 2014. Neaves’ whiptail lizard: the first known 
+
+tetraploid parthenogenetic tetrapod (Reptilia: Squamata: Teiidae). Breviora 539: 1–19.
+
+Conover, W.J., M.E. Johnson, and M.M. Johnson. 1981. A comparative study of tests for homogeneity of 
+variance, with applications to the Outer Continental Shelf bidding data. Technometrics 23: 351–361.
+Dessauer, H.C., and C.J. Cole. 1986. Clonal inheritance in parthenogenetic whiptail lizards: biochemical 
+
+18 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+Duellman, W.E., and R.G. Zweifel. 1962. A synopsis of the lizards of the sexlineatus group (genus Cnemi-
+
+dophorus). Bulletin of the American Museum of Natural History 123 (3): 155–210.
+
+Fox, W. 1948. Effects of temperature on development of scutellation in the garter snake, Thamnophis 
+
+Hardy, L.M., and C.J. Cole. 1981. Parthenogenetic reproduction in lizards: histological evidence. Journal 
+
+elegans atratus. Copeia 1948: 252–262.
+
+of Morphology 170: 215–237.
+
+Jombart, T., S. Devillard, and F. Balloux. 2010. Discriminant analysis of principal components: a new 
+method for the analysis of genetically structured populations. BMC Genetics 11: art. 94. [approxi-
+mately15 pp.]
+
+Lowe, C.H., J.W. Wright, C.J. Cole, and R.L. Bezy. 1970. Chromosomes and evolution of the species 
+
+groups of Cnemidophorus (Reptilia: Teiidae). Systematic Zoology 19: 128–141.
+
+Lutes, A., W.B. Neaves, D.P. Baumann, W. Wiegraebe, and P. Baumann. 2010. Sister chromosome pairing 
+
+maintains heterozygosity in parthenogenetic lizards. Nature 464: 283–286.
+
+Lutes, A., D.P. Baumann, W.B. Neaves, and P. Baumann. 2011. Laboratory synthesis of an independently 
+reproducing vertebrate species. Proceedings of the National Academy of Sciences of the United 
+States of America 108: 9910–9915.
+
+Neaves, W.B. 1969. Adenosine deaminase phenotypes among sexual and parthenogenetic lizards in the 
+
+genus Cnemidophorus (Teiidae). Journal of Experimental Zoology 171: 175–183.
+
+Neff, N.A., and L.F. Marcus. 1980. A survey of multivariate methods for systematics. New York: Ameri-
+
+can Museum of Natural History.
+
+Copeia 1978: 33–47.
+
+Osgood, D.W. 1978. Effects of temperature on the development of meristic characters in Natrix fasciata. 
+
+Parker, E.D. Jr., and R.K. Selander. 1976. The organization of genetic diversity in the parthenogenetic 
+
+lizard Cnemidophorus tesselatus. Genetics 84: 791–805.
+
+Reeder, T.W., C.J. Cole, and H.C. Dessauer. 2002. Phylogenetic relationships of whiptail lizards of the 
+genus Cnemidophorus (Squamata: Teiidae): a test of monophyly, reevaluation of karyotypic evolu-
+tion, and review of hybrid origins. American Museum Novitates 3365: 1–61.
+
+Tabachnick, B.G., and L.S. Fidell. 2013. Using multivariate statistics. 6th ed. Upper Saddle River, NJ: 
+
+Pearson Education, Inc.
+
+Taylor, H.L., C.J. Cole, L.M. Hardy, H.C. Dessauer, C.R. Townsend, J.M. Walker, and J.E. Cordes. 2001. Natu-
+ral hybridization between the teiid lizards Cnemidophorus tesselatus (parthenogenetic) and C. tigris mar-
+moratus (bisexual): assessment of evolutionary alternatives. American Museum Novitates 3345: 1–64.
+
+Taylor, H.L., C.J. Cole, G.J. Manning, J.E. Cordes, and J.M. Walker. 2012. Comparative meristic vari-
+ability  in  whiptail  lizards  (Teiidae,  Aspidoscelis):  samples  of  parthenogenetic  A.  tesselata  versus 
+samples of sexually reproducing A. sexlineata, A. marmorata, and A. gularis septemvittata. American 
+Museum Novitates 3744: 1–24.
+
+Taylor, H.L., J.M. Walker, C.J. Cole, and H.C. Dessauer. 2015. Morphological divergence and genetic 
+variation in the triploid parthenogenetic teiid lizard, Aspidoscelis neotesselata. Journal of Herpetol-
+ogy 49: 491–501.
+
+Townsend, C.R. 1979. Establishment and maintenance of colonies of parthenogenetic whiptail lizards. 
+
+International Zoo Yearbook 19: 80–86.
+
+Townsend,  C.R.,  and  C.J.  Cole.  1985.  Additional  notes  on  requirements  of  captive  whiptail  lizards 
+
+(Cnemidophorus), with emphasis on ultraviolet radiation. Zoo Biology 4: 49–55.
+
+Walker, J.M., H.L. Taylor, and T.P. Maslin. 1966. Evidence for specific recognition of the San Esteban 
+
+whiptail lizard (Cnemidophorus estebanensis). Copeia 1966: 498–505.
+
+2016 
+
+COLE ET AL.: MORPHOLOGICAL VARIATION IN A UNISEXUAL WHIPTAIL LIZARD 
+
+19
+
+Wright, J.W., and C.H. Lowe. 1967. Hybridization in nature between parthenogenetic and bisexual spe-
+
+cies of whiptail lizards (genus Cnemidophorus). American Museum Novitates 2286: 1–36.
+
+APPENDIX 1
+
+Character Abbreviations
+
+Abbreviations  for  morphological  characters  examined  are  listed  below.  Any  character 
+abbreviation followed by (u) indicates that it is a paired character and the count used is from 
+one side of the body (unilateral; the right side, but the left side if the right could not be counted, 
+as in table 1). This maximizes sample size, and the paired characters used this way normally 
+do not show asymmetry in Aspidoscelis, including hybrids (e.g., Dessauer et al., 2000: 99–101). 
+If a paired character is not followed by (u), the total of both sides is presented.  
+
+COS(u), number of circumorbital semicircle scales (following Wright and Lowe, 1967, 
+
+using the count from the right side of the head, but left side if right could not be counted).
+FP(u), number of femoral pores on right leg, but left leg if right could not be counted. 
+GAB, number of dorsal scales (granules) around midbody, following Wright and Lowe 
+
+(1967).
+
+GUL, number of gular scales, following Cole et al. (1988).
+LSG(u), number of lateral supraocular granules (on right side of head, whether in one or 
+two rows, but left side if right could not be counted) between the supraoculars and supercili-
+aries, counting forward from an imaginary line extended from the suture between the third 
+and fourth supraoculars toward the superciliaries, following Walker et al. (1966).
+
+PSC, total number of scales in contact with outer perimeter of parietal and interparietal 
+
+scales, following Cole et al. (2010).
+
+SDL-F(u), number of subdigital lamellae on the right fourth finger, but using the left finger 
+
+if the right could not be counted, following Taylor et al. (2001).
+
+SDL-T(u), number of subdigital lamellae on the right fourth toe, but using the left toe if 
+
+the right could not be counted, following Cole et al. (1988).
+
+SPV, number of granules (scales) between the paravertebral light stripes at midbody, fol-
+
+lowing Wright and Lowe (1967).
+
+SVL, snout-vent (body) length, in mm.
+TBS, number of enlarged dorsal scales around dorsal aspect of base of tail; the count is made 
+while holding the hind legs at the hip perpendicular to the body and counting on an imaginary 
+line along the posterior edges of the legs, but not including lateral granules on the tail.
+
+APPENDIX 2
+
+Specimens Examined
+
+All specimens are in the herpetological collections of the AMNH. The P1 parent of each 
+
+laboratory lineage of A. exsanguis is listed with the field sample.
+
+20 
+
+AMERICAN MUSEUM NOVITATES 
+
+NO. 3849
+
+Laboratory  Lineage  of  A.  exsanguis  AMNH  R-109468:  F1  generation  (AMNH 
+R-113359); F2 generation (AMNH R-115990–115992, R-122852–122854, and R-122856); F3 
+generation (AMNH R-122863, R-122865–122867, R-122888–122889, and R-122895–122897); 
+F4  generation  (AMNH  R-122879–122881,  R-122883,  R-122913–122914,  R-122916,  and 
+R-122929);  F5  generation  (AMNH  R-122918–122919,  R-122921–122922,  R-134875,  and 
+R-134884); F6 generation (AMNH R-134879 and R-134888–134894); F7 generation (AMNH 
+R-134895–134901).
+
+Laboratory  Lineage  of  A.  exsanguis  AMNH  R-113352:  F1  generation  (AMNH 
+R-113356);  F2  generation  (AMNH  R-115978–115982,  R-115987,  R-122843–122847,  and 
+R-122849–122850); F3 generation (AMNH R-122899–122900).
+
+Field A. exsanguis: The sample was accumulated over many years during which time sev-
+eral collectors visited the site and noted the locality slightly differently from time to time. 
+Nevertheless, all of the following specimens were collected at one and the same place. NEW 
+MEXICO:  Hidalgo  County;  Clanton  Draw,  Peloncillo  Mountains,  1700  m  elev.  (AMNH 
+R-84751  and  R-84754);  4.8  km  W,  12.1  km  N  Cloverdale  (AMNH  R-109350,  R-109468, 
+R-113352, and R-115993); Clanton Canyon, 4.8 km W and 12.1 km N (linear) Cloverdale, 1700 
+m elev. (AMNH R-114148–114151); Clanton Canyon, Peloncillo Mountains, 4.8 km W, 12.1 
+km N Cloverdale (AMNH R-119513–119518, and R-119520–119522).
+
+Field A. inornata: The sample was accumulated over many years along a stretch of 1.1 km 
+of highway in desert-grassland. Only females, which are the specimens cited below, were used 
+for the study. NEW MEXICO: Hidalgo County; 26.9 km (by US hwy 70) NW Lordsburg, 1340 
+m elev. (AMNH R-131061–131064, R-114192–114194, R-114197–114199, R-114200–114202, 
+R-114204, and R-114211); 27.2 km (by US hwy 70) NW Lordsburg, 1310 m elev. (AMNH 
+R-120669–120670); 27.5 km (by US hwy 70) NW Lordsburg, 1325 m elev. (AMNH R-114206); 
+27.7  km  (by  US  hwy  70)  NW  Lordsburg  (AMNH  R-120656,  R-125538,  R-125542,  and 
+R-131065); 28 km (by US hwy 70) NW Lordsburg, 1310 m elev. (AMNH R-112840, R-114185–
+114186, and R-114188).
+
+All issues of Novitates and  Bulletin  are available on the web (http://digitallibrary.
+amnh.org/dspace). Order printed copies on the web from:
+
+http://shop.amnh.org/a701/shop-by-category/books/scientific-publications.html 
+
+or via standard mail from:
+
+American Museum of Natural History—Scientific Publications
+Central Park West at 79th Street
+New York, NY 10024
+
+ This paper meets the requirements of ANSI/NISO Z39.48-1992 (permanence of paper).
+
+
