@@ -4,16 +4,21 @@ import csv
 
 SPECIMAN_REGEX='AMNH [A-Z]-[0-9]+|AMNH[ |-][0-9]+'
 
-def find_specimans(file_name):
+def find_specimans(article):
+    """Returns a sorted, distinct list of AMNH specimans (as defined by 
+    SPECIMAN_REGEX) contained in the file."""
+    p = re.compile(SPECIMAN_REGEX)
+    sp_list = list(set(p.findall(article)))
+    sp_list.sort()
+    return sp_list
+
+def find_specimans_file(file_name):
     """Takes as input a text file with name file_name and returns a sorted, 
     distinct list of AMNH specimans (as defined by SPECIMAN_REGEX) contained
     in the file."""
     text = open(file_name)
     article = text.read()
-    p = re.compile(SPECIMAN_REGEX)
-    sp_list = list(set(p.findall(article)))
-    sp_list.sort()
-    return sp_list
+    return find_specimans(article)
     
 def lookup_speciman_names(sp_list):
     """Tales a list of AMNH specimans as input and produces a list of 
@@ -31,7 +36,7 @@ def lookup_speciman_names(sp_list):
 def json_specimans(file_name):
     """Calls find_specimans() with the file_name, jsonify and pretty prints 
     the results"""
-    sp_list = find_specimans(file_name)
+    sp_list = find_specimans_file(file_name)
     specimans = {}
     specimans["file"] = file_name
     specimans["speciman_count"] = len(sp_list)
@@ -60,3 +65,4 @@ def load_collections():
     
 load_collections() 
 print json_specimans('N3849.txt')
+print find_specimans('AMNH Collection AMNH 113352')
