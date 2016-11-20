@@ -7,7 +7,6 @@ import glob
 import path
 import errno
 import signal
-from functools import wraps
 
 
 #must install pdfminer separately (pip install is recommended)
@@ -106,16 +105,21 @@ def getMetadata(itemId):
       
     return dic
 
-def convert_pdf_to_txt(path):
+def signal_handler(signum, frame):
+    raise Exception("Timed Out")
+
+def convert_pdf_to_txt(itemId):
     '''This function takes a single pdf file,
     and converts it to a .txt file
     '''
+    os.system('wget --no-check-certificate https://digitallibrary.amnh.org/rest/bitstreams/'+str(itemId)+'/retrieve -O ' + str(itemId) + '.pdf')
+
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'utf-8'
     laparams = LAParams()
     device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
-    fp = file(path, 'rb')
+    fp = file(str(itemId) + '.pdf', 'rb')
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     password = ""
     maxpages = 0
@@ -123,13 +127,23 @@ def convert_pdf_to_txt(path):
     pagenos = set()
 
     for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
-        interpreter.process_page(page)
+        
+        signal.signal(signal.SIGALRM,signal_handler)
+        signal.alarm(20)
+        try:
+            interpreter.process_page(page)
+        except Exception,msg:
+            pass
+
 
     text = retstr.getvalue()
 
+    #Cleaning
     fp.close()
     device.close()
     retstr.close()
+    os.system('rm '+ str(itemId) + '.pdf')
+
     return text
 
 def findSpecieInPDF(itemId):
