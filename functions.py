@@ -32,7 +32,7 @@ def getItemYear(id,yearList):
     and a list where all the output will be stored
     '''
         
-    response = requests.get('https://digitallibrary.amnh.org/rest/items/' + id + '?expand=metadata',verify=False)
+    response = requests.get('https://digitallibrary.amnh.org/rest/items/' + str(id) + '?expand=metadata',verify=False)
     json_data = json.loads(response.text)
     
     try:
