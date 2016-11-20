@@ -26,7 +26,7 @@ def createListOfIds():
 
 def getItemYear(id,yearList):
     
-     '''
+    '''
     This function takes an id of the item in Dspace
     and a list where all the output will be stored
     '''
