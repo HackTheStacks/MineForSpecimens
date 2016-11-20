@@ -9,6 +9,19 @@ try:
 except ImportError:
     import urllib.request as urllib
 
+# Return array of all valid item IDs
+
+def createListOfIds():
+    response = requests.get('https://digitallibrary.amnh.org/rest/collections/4?expand=items&limit=10000',verify=False)
+    json_data = json.loads(response.text)
+
+    itemIdList=[]
+
+    for item in json_data['items']:
+        itemId = item.get("id")
+        itemIdList.append(itemId)
+
+    return itemIdList
 
 def getItemYear(id,yearList):
     '''
