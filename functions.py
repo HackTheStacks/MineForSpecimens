@@ -70,3 +70,25 @@ def getIdsFromPeriod(year):
     #create a mask of ids whose year is equal to year
     mask = idsFromPeriod.apply(getYear)==year
     return list(idsFromPeriod[mask].index)
+
+
+def getMetadata(itemId):
+    '''This function takes an items's id
+    and returns the metadata in a python dic
+    '''
+    url = 'https://digitallibrary.amnh.org/rest/items/'+str(itemId)+'/metadata'
+    result = os.popen('curl -ki -H "Accept: application/json" -H "Content-Type: application/json" \-X GET ' + url).read()
+    parseData = json.loads(result[199:])
+    dic = {'authors':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.contributor.author']],
+        'subjects':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.subject']],
+        'title.alternatives':[parseData[i]['value'] for i in range(len(parseData)) if parseData[i]['key'] in ['dc.title.alternative']]
+           }
+    listOfUniqueKeys = ['dc.date.issued','dc.date.available','dc.date.issued','dc.identifier.uri','dc.description','dc.description.abstract',
+ 'dc.language.iso','dc.publisher','dc.relation.ispartofseries','dc.title']
+    dic2 = dict([(parseData[i]['key'],parseData[i]['value']) for i in range(len(parseData)) if parseData[i]['key'] in listOfUniqueKeys])
+    dic.update(dic2)
+    
+    #We have yet to implement this function
+    #'species':findSpecieInPDF(file.pdf)    
+      
+    return dic
