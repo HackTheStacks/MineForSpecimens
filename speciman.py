@@ -1,5 +1,6 @@
 import re
 import json
+import csv
 
 SPECIMAN_REGEX='AMNH [A-Z]-[0-9]+|AMNH[ |-][0-9]+'
 
@@ -23,7 +24,23 @@ def pprint_specimans(file_name):
     specimans["Speciman Count"] = len(sp_list)
     specimans["Speciman(s)"] = sp_list
     print json.dumps(specimans, indent=4, sort_keys=True)
-
+    
+    
+collection = {}    
+def load_collections():
+    with open('CatalogNos/herp.txt', 'rb') as csvfile:
+        collection_reader = csv.reader(csvfile)
+        collection_reader.next()    # ignore header
+        for row in collection_reader:
+            collection[(row[0],row[1])] = row[2:]
+    with open('CatalogNos/bird.txt', 'rb') as csvfile:
+        collection_reader = csv.reader(csvfile)
+        collection_reader.next()    # ignore header
+        for row in collection_reader:
+            collection[('',row[1])] = row[3:]
+    
+    
 pprint_specimans('N3849.txt')
-#speciman_list = find_specimans('N3849.txt')
-#print speciman_list
+load_collections()
+print collection[('A','10329')]
+print collection[('', '674957')]
