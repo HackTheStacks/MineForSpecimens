@@ -3,7 +3,7 @@ import sys
 import json
 import csv
 import pandas as pd
-import request
+import requests
 
 try:
     import urllib2 as urllib
