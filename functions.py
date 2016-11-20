@@ -23,29 +23,28 @@ def createListOfIds():
 
     return itemIdList
 
+
 def getItemYear(id,yearList):
-    '''
+     '''
     This function takes an id of the item in Dspace
     and a list where all the output will be stored
     '''
-    url = 'https://digitallibrary.amnh.org/rest/items/'+str(id)+'/metadata'
-    result = os.popen('curl -ki -H "Accept: application/json" -H "Content-Type: application/json" \-X GET ' + url).read()
+    response = requests.get('https://digitallibrary.amnh.org/rest/items/' + id + '?expand=metadata',verify=False)
+    json_data = json.loads(response.text)
+
     try:
-        #remove the html header
-        parseData = json.loads(result[199:])
-        #search though the list the key 'date.issued' and get its value
-        for i in range(len(parseData)):
+        for item in json_data['metadata']:
             #looks for the element of the list that has de date.issued
-            if parseData[i]['key'] == 'dc.date.issued':
-                output = parseData[i]['value']
+            if item['key'] == 'dc.date.issued':
+                output = item['value']
                 break
             else:
                 continue
                         
     except ValueError:
         output = 0
-    yearList.append(output)
 
+    yearList.append(output)
 
 def datetimeCoerce(x):
     '''This function takes a date string as produced
@@ -58,11 +57,14 @@ def getYear(x):
     returns the year'''
     return x.year
 
+'''
+Keeping this in here for now in case we need to change the new function
+
 def createListOfIds():
-    '''
-    This function creates a Pandas Series of ALL the ids from 
-    ALL the collections and saves it in a csv
-    '''
+    
+#    This function creates a Pandas Series of ALL the ids from 
+#    ALL the collections and saves it in a csv
+    
     years =[]
     #6768 is the current number, we should come up with a way to
     #get it from the full item list
@@ -71,7 +73,8 @@ def createListOfIds():
     #change the index so they reflect the id of the item
     datesOfItems.index = reversed(range(6768))
     datesOfItems.to_csv('datesOfItems.csv')
-    
+'''
+
 def getIdsFromPeriod(year):
     '''This function takes a year, 
     reads the csv returned from createListOfIds()
