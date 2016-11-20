@@ -6,12 +6,13 @@ import pandas as pd
 import requests
 import path
 import signal
+from cStringIO import StringIO
 
 #must install pdfminer separately (pip install is recommended)
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPa
+from pdfminer.pdfpage import PDFPage
 
 try:
     import urllib2 as urllib
